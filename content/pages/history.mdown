@@ -5,10 +5,10 @@ Date: 2016-01-13
 While meetings are open to whatever somebody in the group wants to talk about, we usually pick a main topic for each semester.
 So far, the following topics have been covered:
 
-Semester    | Topic
------------ | ------------
-Spring 2016         | Game theory
-Fall 2015           | Dynamic semantics
-Spring 2015         | Generalized quantifiers
-Fall 2014           | Lattices in linguistics
-Spring 2014         | Modal logic
+Semester     | Topic
+------------ | ------------
+2016 Spring  | Game theory
+2015 Fall    | Dynamic semantics
+2015 Spring  | Generalized quantifiers
+2014 Fall    | Lattices in linguistics
+2014 Spring  | Modal logic
