@@ -1,6 +1,6 @@
 Title: Doodle Poll for Meeting Time
 Author: Thomas Graf
-Date: 01-14-2016
+Date: 2016-01-14
 
 As usual, we need to agree on a meeting time.
 To the best of my knowledge, there will be no classes scheduled for Friday this semester, so we should have a wider range of options than last time around.
