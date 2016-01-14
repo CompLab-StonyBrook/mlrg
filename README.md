@@ -55,8 +55,8 @@ Creating a new announcement is easy.
 
 To test things locally before you upload them, you have to
 
-1.  open a terminal and navigate to the root folder of the repository (the one with pelicanconf.py),
-1.  run make devserver, and
+1.  open a terminal and navigate to the root folder of the repository (the one with *pelicanconf.py*),
+1.  run `make devserver`, and
 1.  open a browser and load [http://localhost:8000](http://localhost:8000).
 
 If everything is fine, run `make stopserver` to end the testing phase.
