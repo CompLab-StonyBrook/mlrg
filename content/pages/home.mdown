@@ -17,7 +17,7 @@ The reading group provides a venue for
 Pretty much anything goes, as long as it has some formal/mathematical component to it.
 The group is very interdisciplinary in nature and we welcome guests from other departments.
 
-You can follow us by [subscribing to our news feed]({filename}/feeds/all.atom.xml).
+You can follow us by [subscribing to our news feed](http://complab-stonybrook.github.io/mlrg/feeds/all.atom.xml).
 
 
 ## Current Semester
