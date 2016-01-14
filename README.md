@@ -31,7 +31,7 @@ System Requirements
     or use your package manager if you're on Linux.
 
 1.  Python's typogrify library.
-    As before, you pip or your package manager.
+    As before, use pip or your package manager.
 
 
 File Structure
