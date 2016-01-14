@@ -1,0 +1,14 @@
+Title: History
+Author: Thomas Graf
+Date: 2016-01-13
+
+While meetings are open to whatever somebody in the group wants to talk about, we usually pick a main topic for each semester.
+So far, the following topics have been covered:
+
+Semester    | Topic
+----------- | ------------
+S16         | Game theory
+F15         | Dynamic semantics
+S15         | Generalized quantifiers
+F14         | Lattices in linguistics
+S14         | Modal logic

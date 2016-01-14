@@ -1,0 +1,30 @@
+Title: Welcome!
+Author: Thomas Graf
+URL:
+Template: home
+save_as: index.html
+
+This is the website for the Mathematical Linguistics Reading Group in the [Department of Linguistics](http://linguistics.stonybrook.edu) at [Stony Brook University](http://www.stonybrook.edu).
+
+The reading group provides a venue for
+
+- paper discussions,
+- practice talks,
+- invited talks,
+- presentations of ongoing research,
+- and much more.
+
+Pretty much anything goes, as long as it has some formal/mathematical component to it.
+The group is very interdisciplinary in nature and we welcome guests from other departments.
+
+You can follow us by [subscribing to our news feed]({filename}/feeds/all.atom.xml).
+
+
+## Current Semester
+
+**Time**: tba  
+**Location**: tba  
+**Topic**: Game Theory  
+**Readings**: [Google drive](https://drive.google.com/a/stonybrook.edu/folderview?id=0B09645QdWLiYVVRjSElwcVkwaTg&usp=sharing) (access restricted)  
+**Student Organizer**: Rob Pasternak  
+**Faculty Organizer**: [Thomas Graf](http://thomasgraf.net)

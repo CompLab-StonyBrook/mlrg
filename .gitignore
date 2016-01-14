@@ -1,0 +1,4 @@
+output
+output/*
+*.py[cod]
+*.pid
