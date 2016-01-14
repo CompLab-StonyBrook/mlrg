@@ -49,15 +49,15 @@ Workflow
 
 Creating a new announcement is easy.
 
-1.  Go to the folder *content* and then the folder for the current semester (e.g. 2016-Spring).
+1.  Go to the folder *content* and then the folder for the current semester (e.g. *2016-Spring*).
 1.  Create a new markdown file.
-1.  Make sure the markdown file starts with a well-formed header consisting of `Title:`, `Author:`, and `Date:` (in format YYYY-MM-DD).
+1.  Make sure the markdown file starts with a well-formed header with the first three lines consisting of `Title:`, `Author:`, and `Date:` (in format YYYY-MM-DD), followed by an empty line.
 
 To test things locally before you upload them, you have to
 
 1.  open a terminal and navigate to the root folder of the repository (the one with pelicanconf.py),
 1.  run make devserver, and
-1.  open a browser and load (http://localhost:8000)[http://localhost:8000].
+1.  open a browser and load [http://localhost:8000](http://localhost:8000).
 
 If everything is fine, run `make stopserver` to end the testing phase.
 Now only two things remain:
