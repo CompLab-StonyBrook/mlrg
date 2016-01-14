@@ -41,10 +41,9 @@ TYPOGRIFY = True
 DEFAULT_DATE = 'fs'
 
 INDEX_SAVE_AS = 'news.html'
-STATIC_PATHS = ['images', 'extra/CNAME', 'extra/README.md', 'extra/robots.txt']
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/robots.txt']
 STATIC_EXCLUDE_SOURCES = False
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/README.md': {'path': 'README.md'},
     'extra/CNAME': {'path': 'CNAME'},
 }
