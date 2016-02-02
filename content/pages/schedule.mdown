@@ -3,3 +3,7 @@ Author: Thomas Graf
 Date: 2016-01-13
 
 The schedule for Spring 2016 will be decided during our first meeting.
+
+| Day | Topic |
+|-----|-------|
+| 1   |  blah |
