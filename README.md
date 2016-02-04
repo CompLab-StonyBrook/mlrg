@@ -8,6 +8,8 @@ These are simple markdown files that are automatically converted into HTML via t
 System Requirements
 -------------------
 
+If you're affiliated with Stony Brook University, you can download a [virtual machine image](https://drive.google.com/a/stonybrook.edu/file/d/0B09645QdWLiYUldGSGl5Tmx0Vm8/view?usp=sharing) that comes with all necessary packages pre-installed.
+
 1.  Recent version of Python2.
 
 1.  Pelican 3.6 or higher.
