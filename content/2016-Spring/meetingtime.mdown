@@ -1,6 +1,7 @@
 Title: Final Meeting Time
 Author: Rob Pasternak
 Date: 2016-01-28
+Modified: 2016-02-04
 
 We'll be having our organizational meeting for the Math Reading Group **this Friday from 2-3 in the comp ling lab** (directions are given below).
 This will be the normal meeting time/location for the reading group this semester.
