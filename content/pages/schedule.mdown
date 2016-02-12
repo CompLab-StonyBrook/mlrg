@@ -2,19 +2,18 @@ Title: Schedule
 Author: Thomas Graf
 Date: 2016-01-13
 
-The schedule for Spring 2016 will be decided during our first meeting.
 
-| Day   | Presenter    | Topic           |
-|-------|--------------|-----------------|
-| 2/5   | Rob          | Topology Primer |
-| 2/12  | Alejandro    |                 |
-| 2/19  | Hwichan      |                 |
-| 2/26  | Aniello      |                 |
-| 3/4   | Alena        |                 |
-| 3/11  | Chong        |                 |
-| 3/18  | spring break |                 |
-| 3/25  | James        |                 |
-| 4/1   | Camilo       |                 |
-| 4/8   | Lei          |                 |
-| 4/15  | Yaobin       |                 |
-| 4/22  | Thomas       |                 |
+| Day   | Presenter    | Topic                                           |
+|-------|--------------|-------------------------------------------------|
+| 2/5   | Rob          | ~~Topology Primer~~; cancelled due to weather   |
+| 2/12  | Alejandro    | Game Theory Primer                              |
+| 2/19  | Hwichan      |                                                 |
+| 2/26  | Aniello      |                                                 |
+| 3/4   | Alena        |                                                 |
+| 3/11  | Chong        |                                                 |
+| 3/18  | spring break |                                                 |
+| 3/25  | James        |                                                 |
+| 4/1   | Camilo       |                                                 |
+| 4/8   | Lei          |                                                 |
+| 4/15  | Yaobin       |                                                 |
+| 4/22  | Thomas       |                                                 |
