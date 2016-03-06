@@ -8,8 +8,8 @@ Date: 2016-01-13
 | 2/5   | Rob          | <del>Topology Primer</del>; cancelled due to weather   |
 | 2/12  | Alejandro    | Game Theory Primer                              |
 | 2/19  | Rob          | Topology Primer                                 |
-| 2/26  | Aniello      |                                                 |
-| 3/4   | Alena        |                                                 |
+| 2/26  | Aniello      | Signaling Games and Bidirectional OT            |
+| 3/4   | Hwichan      | that-trace effects                              |
 | 3/11  | Chong        |                                                 |
 | 3/18  | spring break |                                                 |
 | 3/25  | James        |                                                 |
