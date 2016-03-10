@@ -1,0 +1,5 @@
+Title: Topology Without Tears Link
+Author: Rob Pasternak
+Date: 2016-03-02
+
+In my presentation, I mentioned a PDF book called "Topology Without Tears", which is a nice introduction to the basic topics of topology. You can find a link [here](http://u.math.biu.ac.il/~megereli/topbook.pdf)
