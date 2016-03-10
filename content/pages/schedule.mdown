@@ -10,10 +10,11 @@ Date: 2016-01-13
 | 2/19  | Rob          | Topology Primer                                 |
 | 2/26  | Aniello      | Signaling Games and Bidirectional OT            |
 | 3/4   | Hwichan      | that-trace effects                              |
-| 3/11  | Chong        |                                                 |
+| 3/11  | Thomas       | OT and antimatroids                             |
 | 3/18  | spring break |                                                 |
 | 3/25  | James        |                                                 |
-| 4/1   | Camilo       |                                                 |
+| 4/1   | ---          | LSRL conference                                 |
 | 4/8   | Lei          |                                                 |
 | 4/15  | Yaobin       |                                                 |
-| 4/22  | Thomas       |                                                 |
+| 4/22  | tbd          |                                                 |
+| 4/29  | tbd          |                                                 |

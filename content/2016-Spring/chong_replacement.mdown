@@ -1,0 +1,7 @@
+Title: Schedule Change
+Author: Thomas Graf
+Date: 2016-03-09
+
+Since Chong is still recuperating I will instead talk about the relation of OT and antimatroids.
+The paper is [available in the Google drive](https://drive.google.com/a/stonybrook.edu/file/d/0B09645QdWLiYY18xSTJFb3JmT0U/view?usp=sharing).
+Note: my presentation is not related to game theory, so we're temporarily breaking our alternating schedule.
