@@ -1,0 +1,5 @@
+Title: Tomorrow's Meeting is on Computational Morphology
+Author: Thomas 
+Date: 2016-04-14
+
+Contrary to what's claimed on the schedule, tomorrow's meeting will be run by Alena and Sophie, who will report their first results on the computational complexity of morphology.
