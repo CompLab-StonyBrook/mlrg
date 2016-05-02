@@ -3,18 +3,18 @@ Author: Thomas Graf
 Date: 2016-01-13
 
 
-| Day   | Presenter    | Topic                                           |
-|-------|--------------|-------------------------------------------------|
-| 2/5   | Rob          | <del>Topology Primer</del>; cancelled due to weather   |
-| 2/12  | Alejandro    | Game Theory Primer                              |
-| 2/19  | Rob          | Topology Primer                                 |
-| 2/26  | Aniello      | Signaling Games and Bidirectional OT            |
-| 3/4   | Hwichan      | that-trace effects                              |
-| 3/11  | Thomas       | OT and antimatroids                             |
-| 3/18  | spring break |                                                 |
-| 3/25  | James        |                                                 |
-| 4/1   | ---          | LSRL conference                                 |
-| 4/8   | Lei          |                                                 |
-| 4/15  | Yaobin       |                                                 |
-| 4/22  | tbd          |                                                 |
-| 4/29  | tbd          |                                                 |
+| Day   | Presenter          | Topic                                                  |
+|-------|--------------------|--------------------------------------------------------|
+| 2/5   | Rob                | <del>Topology Primer</del>; cancelled due to weather   |
+| 2/12  | Alejandro          | Game Theory Primer                                     |
+| 2/19  | Rob                | Topology Primer                                        |
+| 2/26  | Aniello            | Signaling Games and Bidirectional OT                   |
+| 3/4   | Hwichan            | that-trace effects                                     |
+| 3/11  | Thomas             | OT and antimatroids                                    |
+| 3/18  | spring break       |                                                        |
+| 3/25  | James              | Minimalist grammar parsing and pronoun reference       |
+| 4/1   | ---                | LSRL conference                                        |
+| 4/8   | Camillo            | Signaling games and cheap-talk games                   |
+| 4/15  | Alena & Sophie     | Subregular complexity of morphology                    |
+| 4/22  | Gary               | Gödel's modal logic proofs                             |
+| 4/29  | Yaobin & So-Young  |                                                        |
