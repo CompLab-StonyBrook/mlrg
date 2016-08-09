@@ -36,6 +36,21 @@ If you're affiliated with Stony Brook University, you can download a [virtual ma
     As before, use pip or your package manager.
 
 
+A Note on pip Installations
+------------------------------
+
+Python's pip has the nasty habit of scattering the install files across various system folders.
+A better solution is to create a *virtual environment* in your home directory that holds all the files related to working with pelican:
+
+~~~~~
+mkdir ~/.mlrg_env
+virtualenv ~/.mlrg_env
+~/.mlrg_env/bin/pip install pelican ghp-import typogrify
+~~~~~
+
+You then have to make the pelican script accessible through your shell, either by adding `~/.mlrg_env` to your path or by symlinking it to a folder in your path (e.g. `/usr/bin` or `~/bin`).
+
+
 File Structure
 --------------
 
