@@ -1,0 +1,42 @@
+Title: Two Logic Classes This Coming Fall
+Author: Thomas 
+Date: 2016-08-08
+
+Gary Mar will be teaching two logic classes this semester that should 
+be of interest to MLRG attendees. One is his Introduction to Symbolic 
+Logic (PHI 220, MWF 10-11), the other his Gödel seminar (M 4--7). An 
+outline of the seminar is given at the end of this message.
+
+This is an excellent opportunity to learn more about logic in general, 
+and Gödel's revolutionary work in particular. Logic plays an important 
+role in computational linguistics (e.g. in model-theoretic syntax), 
+and we might also encounter some logic in my phonology seminar. So 
+even if you don't fancy yourself a semanticist, it's good to know some 
+basic logic --- I'd go so far as to say that familiarity with logic 
+and Gödel's work in particular is an essential requirement for every 
+modern intellectual.
+
+Also, the last time two linguistics students took a class with Gary, 
+it resulted in a joint paper on "Unless and Until" that was published 
+in the proceedings of the Symposium on Logic, Language, and 
+Computation.
+
+
+Gödel seminar
+-------------
+
+1.  The first three sessions of Goedel seminar will cover the
+
+    - history of logic from Aristotle to Frege,
+    - the emergence of paradoxes in logic and semantics from Russell and Frege to Goedel,
+    - applications of the philosophy of language to the history of philosophy.
+
+1.  We'll also cover the Goedel completeness and incompleteness 
+theorems, with the latter presented using modal provability logics.
+
+1.  There will be an informal introduction to Cantorian, in contrast to
+Fregean, set theory and how the axioms of ZFC articulate the Cantorian
+"iterative conception of set." As a sidebar, we'll show why Grim's
+"Cantorian Atheistic Arguments" are based on a fundamental misunderstanding
+of the Cantorian conception and how Goedel's Modal Ontological Argument
+parallels certain constructions he used to prove his completeness theorem.
