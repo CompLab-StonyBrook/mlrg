@@ -1,0 +1,19 @@
+Title: Doodle Poll for Meeting Time
+Author: Aniello De Santo
+Date: 2016-08-23
+
+Hi all!
+
+The first meeting of the semester will be Friday, September 2nd, and we need to agree on a meeting time.
+Please go to the [Doodle poll](http://doodle.com/poll/wexxd9gy4hidt73m) and fill in the form.
+
+This year we might experiment with the idea of choosing several topics and dedicate about a month to each of them.
+For this semester, a few topics have been suggested:
+
+- Game Theory (continued)
+- Linear Algebra (Vector Space Semantics, Support Vector Machines, Matlab)
+- Chaos Theory
+- Network Theory
+- Fourier Transforms, EEG Math
+- Model Theoretic Syntax
+- Categorial Grammar and Type-Logical Grammar
