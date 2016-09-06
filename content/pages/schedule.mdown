@@ -6,8 +6,8 @@ Date: 2016-01-13
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
 | 9/9   | Thomas             | tba                                                    |
-| 9/16  | Logan              | A Linear Algebra Primer                                 |
-| 9/23  | Aniello            | Model Theoretic Syntax: Intro                          |
+| 9/16  | Logan              | A Linear Algebra Primer                                |
+| 9/23  | Aniello            | Model Theoretic Syntax                                 |
 | 9/30  | Aniello            | Model Theoretic Syntax                                 |
 | 10/7  | Thomas             | Categorial Grammars                                    |
 | 10/14 | Thomas             | Categorial Grammars                                    |
