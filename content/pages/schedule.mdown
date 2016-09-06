@@ -6,13 +6,13 @@ Date: 2016-01-13
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
 | 9/9   | Thomas             | tba                                                    |
-| 9/16  | Logan              | A Linea Algebra Primer                                 |
+| 9/16  | Logan              | A Linear Algebra Primer                                 |
 | 9/23  | Aniello            | Model Theoretic Syntax: Intro                          |
 | 9/30  | Aniello            | Model Theoretic Syntax                                 |
 | 10/7  | Thomas             | Categorial Grammars                                    |
 | 10/14 | Thomas             | Categorial Grammars                                    |
 | 10/21 | Alena              | tba                                                    |
-| 10/28 | Jon                | Network theory                                         |
+| 10/28 | Jon                | Network Theory                                         |
 | 11/4  | Gary               | Chaos Theory (date subject to change)                  |
 | 11/11 | Gary               | Chaos Theory (date subject to change)                  |
 | 11/18 | Adam               | tba                                                    |
