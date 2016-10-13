@@ -1,0 +1,12 @@
+Title: Model Theoretic Syntax meeting
+Author: Aniello De Santo
+Date: 2016-09-22
+
+Hi all!
+
+As per schedule, we'll be meeting tomorrow at 1.15 PM in the Computational Linguistics Lab to chat about Model Theoretic Syntax.
+As usual, there is nothing in particular you **need** to read but, if you are interested, there is now a MTS folder in the reading group's **Google Drive** repository.
+
+Hope to see you all tomorrow!
+
+ps. If you don't have access to the **Google Drive** yet, send an email to Thomas.

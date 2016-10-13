@@ -5,13 +5,13 @@ Date: 2016-01-13
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 9/9   | Thomas             | Modal logic & bisimulation invariance                  |
+| 9/9   | Thomas             | Modal Logic                                            |
 | 9/16  | Logan              | A Linear Algebra Primer                                |
 | 9/23  | Aniello            | Model Theoretic Syntax                                 |
 | 9/30  | Aniello            | Model Theoretic Syntax                                 |
 | 10/7  | Thomas             | Categorial Grammars                                    |
 | 10/14 | Thomas             | Categorial Grammars                                    |
-| 10/21 | Alena              | tba                                                    |
+| <del>10/21</del> | <del>Alena</del>   | <del>tba</del>     (Cancelled)              |
 | 10/28 | Jon                | Network Theory                                         |
 | 11/4  | Gary               | Chaos Theory (date subject to change)                  |
 | 11/11 | Gary               | Chaos Theory (date subject to change)                  |
