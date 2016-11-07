@@ -14,7 +14,7 @@ Date: 2016-01-13
 | <del>10/21</del> | <del>Alena</del>   | <del>tba</del>     (Cancelled)              |
 | 10/28 | Jon                | Network Theory                                         |
 | 11/4  | Gary               | Chaos Theory (date subject to change)                  |
-| 11/11 | Gary               | Chaos Theory (date subject to change)                  |
-| 11/18 | Adam               | tba                                                    |
+| 11/11 | Adam               | Randomness in Algorithmic and Quantum Information Theory   |
+| 11/18 | Open Slot          | Open Slot                                              |
 | 11/25 | ---                | Thanksgiving break                                     |
-| 11/2  | Ayla               | tba                                                    |
+| 11/2  | Open Slot          | Open Slot                                              |
