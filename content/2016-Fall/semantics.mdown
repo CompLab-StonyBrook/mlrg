@@ -1,0 +1,11 @@
+Title: This Friday: Thomas on Subregular Semantics
+Author: Aniello De Santo
+Date: 2016-11-16
+
+Hi all!
+
+This week Thomas will give a talk about semantics, automata, and the subregular hierarchy.
+We'll meet in the Comp Ling Lab at the usual time (1.25 to 2.15).
+
+
+See you on Friday!
