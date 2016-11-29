@@ -17,4 +17,5 @@ Date: 2016-11-15
 | 11/11 | Adam               | Randomness in Algorithmic and Quantum Information Theory   |
 | 11/18 | Thomas             | Subregular Semantics                                   |
 | 11/25 | ---                | Thanksgiving break                                     |
-| 11/2  | Open Slot          |                                              |
+| 12/2  | ---                | (Cancelled)                                            |
+| 12/9  | ---                | Spring Semester Organizational Meeting                 |
