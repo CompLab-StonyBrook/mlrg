@@ -1,21 +1,19 @@
 Title: Schedule
-Author: Thomas Graf
-Date: 2016-11-15
+Author: Alena Aksenova
+Date: 2017-02-06
 
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 9/9   | Thomas             | Modal Logic                                            |
-| 9/16  | Logan              | A Linear Algebra Primer                                |
-| 9/23  | Aniello            | Model Theoretic Syntax                                 |
-| 9/30  | Aniello            | Model Theoretic Syntax                                 |
-| 10/7  | Thomas             | Categorial Grammars                                    |
-| 10/14 | Thomas             | Categorial Grammars                                    |
-| <del>10/21</del> | <del>Alena</del>   | <del>tba</del>     (Cancelled)              |
-| 10/28 | Jon                | Network Theory                                         |
-| 11/4  | Gary               | Chaos Theory                                           |
-| 11/11 | Adam               | Randomness in Algorithmic and Quantum Information Theory   |
-| 11/18 | Thomas             | Subregular Semantics                                   |
-| 11/25 | ---                | Thanksgiving break                                     |
-| 12/2  | ---                | (Cancelled)                                            |
-| 12/9  | ---                | Spring Semester Organizational Meeting                 |
+| 2/17  | Thomas             | Intro to Categorial Grammars                           |
+| 2/24  | Aniello            | tba                                                    |
+| 3/3   | Alëna              | Parsing and Categorial Grammars                        |
+| 3/10  | Sophie             | Categorial Grammars and moprphology                    |
+| 3/17  | ---                | spring break                                           |
+| 3/24  | ---                | spring break                                           |
+| 3/31  | tba                | tba                                                    |
+| 4/7   | tba                | tba                                                    |
+| 4/14  | tba                | tba                                                    |
+| 4/21  | tba                | tba                                                    |
+| 4/28  | tba                | tba                                                    |
+| 5/5   | tba                | Fall 2017 Organizational Meeting                       |
