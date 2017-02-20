@@ -6,9 +6,9 @@ Date: 2017-02-06
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
 | 2/17  | Thomas             | Intro to Categorial Grammars                           |
-| 2/24  | Aniello            | tba                                                    |
+| 2/24  | Aniello            | Semantics in CCG                                       |
 | 3/3   | Alëna              | Parsing and Categorial Grammars                        |
-| 3/10  | Sophie             | Categorial Grammars and moprphology                    |
+| 3/10  | Sophie             | Categorial Grammars and morphology                     |
 | 3/17  | ---                | spring break                                           |
 | 3/24  | ---                | spring break                                           |
 | 3/31  | tba                | tba                                                    |

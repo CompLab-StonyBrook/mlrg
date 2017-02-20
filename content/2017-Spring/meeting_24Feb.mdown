@@ -1,0 +1,11 @@
+Title: Next Meeting: Semantics in CCGs
+Author: Aniello De Santo
+Date: 2017-02-24
+
+Hi all!
+
+In our next meeting (Friday, Feb 24), we will talk about Semantics in Categorial Grammars,
+and in particular we'll see how CCGs can handle quantifiers scope ambiguities.
+
+In case you are particularly interested in the topic, you can check out  *Surface-Compositional Scope-Alternation Without Existential Quantifiers*
+, a 2010 paper by Mark Steedman now uploaded in our shared Google Drive.
