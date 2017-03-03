@@ -1,6 +1,6 @@
 Title: Schedule
-Author: Alena Aksenova
-Date: 2017-02-06
+Author: Aniello De Santo
+Date: 2017-03-03
 
 
 | Day   | Presenter          | Topic                                                  |
@@ -10,10 +10,10 @@ Date: 2017-02-06
 | 3/3   | Alëna              | Parsing and Categorial Grammars                        |
 | 3/10  | Sophie             | Categorial Grammars and morphology                     |
 | 3/17  | ---                | spring break                                           |
-| 3/24  | ---                | spring break                                           |
-| 3/31  | tba                | tba                                                    |
-| 4/7   | tba                | tba                                                    |
-| 4/14  | tba                | tba                                                    |
+| 3/24  | ---                | cancelled                                              |
+| 3/31  | tba                | Guest Talk (subject to change)                         |
+| 4/7   | Hwichan            | Gapping &  CGs                                         |
+| 4/14  | Thomas             | tba                                                    |
 | 4/21  | tba                | tba                                                    |
 | 4/28  | tba                | tba                                                    |
 | 5/5   | tba                | Fall 2017 Organizational Meeting                       |
