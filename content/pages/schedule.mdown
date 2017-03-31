@@ -11,9 +11,9 @@ Date: 2017-03-03
 | 3/10  | Sophie             | Categorial Grammars and morphology                     |
 | 3/17  | ---                | spring break                                           |
 | 3/24  | ---                | cancelled                                              |
-| 3/31  | tba                | Guest Talk (subject to change)                         |
+| 3/31  | Thomas             | Graph transductions and typological gaps               |
 | 4/7   | Hwichan            | Gapping &  CGs                                         |
-| 4/14  | Thomas             | tba                                                    |
+| 4/14  | tba                | tba                                                    |
 | 4/21  | tba                | tba                                                    |
 | 4/28  | tba                | tba                                                    |
 | 5/5   | tba                | Fall 2017 Organizational Meeting                       |
