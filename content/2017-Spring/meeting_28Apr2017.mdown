@@ -1,0 +1,7 @@
+Title: Gary and his Chart Parsing idea!
+Author: Aniello De Santo
+Date: 2017-04-28
+
+Hi all!
+
+Friday 28, Gary will tell us about his idea for adapting chart parsing to account for scope ambiguities.

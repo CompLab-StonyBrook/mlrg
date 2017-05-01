@@ -13,7 +13,7 @@ Date: 2017-03-03
 | 3/24  | ---                | cancelled                                              |
 | 3/31  | Thomas             | Graph transductions and typological gaps               |
 | 4/7   | Hwichan            | Gapping &  CGs                                         |
-| 4/14  | tba                | tba                                                    |
-| 4/21  | tba                | tba                                                    |
-| 4/28  | tba                | tba                                                    |
-| 5/5   | tba                | Fall 2017 Organizational Meeting                       |
+| 4/14  | Adam               |Higher-Order Cellular Automata                          |
+| 4/21  | ---                | cancelled                                              |
+| 4/28  | Gary               | A Chart Parsing Account of Scope Ambiguities           |
+| 5/5   | Everyone           | Fall 2017 Organizational Meeting                       |
