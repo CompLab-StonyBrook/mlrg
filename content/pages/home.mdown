@@ -1,4 +1,4 @@
-Title: Welcome!
+﻿Title: Welcome!
 Author: Thomas Graf
 URL:
 Template: home
@@ -24,7 +24,7 @@ You can follow us by [subscribing to our news feed](http://complab-stonybrook.gi
 
 **Time**: Fri 12:00 - 1:00  
 **Location**: CompLab (SBS N-250)  
-**Topic**: Categorial Grammars (see Schedule)  
+**Topics**: see Schedule  
 **Readings**: [Google drive](https://drive.google.com/a/stonybrook.edu/folderview?id=0B09645QdWLiYVVRjSElwcVkwaTg&usp=sharing) (access restricted)  
-**Student Organizers**: [Alëna Aksenova](http://www.aaksenova.jimdo.com/) & [Aniello De Santo](https://linguistics.stonybrook.edu/students/aniello.de.santo)  
+**Student Organizers**: [Jon Rawski](http://www.jrawski.jimdo.com/)   
 **Faculty Organizer**: [Thomas Graf](http://thomasgraf.net)

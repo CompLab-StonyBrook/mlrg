@@ -7,6 +7,8 @@ So far, the following topics have been covered:
 
 Semester     | Topic
 ------------ | ------------
+2017 Fall    | Linear Algebra, Neural Networks, Graph Theory
+2017 Spring  | Categorial Grammars
 2016 Spring  | Game theory
 2015 Fall    | Dynamic semantics
 2015 Spring  | Generalized quantifiers

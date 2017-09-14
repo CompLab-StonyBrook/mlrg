@@ -1,19 +1,20 @@
-Title: Schedule
-Author: Aniello De Santo
-Date: 2017-03-03
+﻿Title: Schedule
+Author: Jon Rawski
+Date: 2017-09-05
 
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 2/17  | Thomas             | Intro to Categorial Grammars                           |
-| 2/24  | Aniello            | Semantics in CCG                                       |
-| 3/3   | Alëna              | Parsing and Categorial Grammars                        |
-| 3/10  | Sophie             | Categorial Grammars and morphology                     |
-| 3/17  | ---                | spring break                                           |
-| 3/24  | ---                | cancelled                                              |
-| 3/31  | Thomas             | Graph transductions and typological gaps               |
-| 4/7   | Hwichan            | Gapping &  CGs                                         |
-| 4/14  | Adam               |Higher-Order Cellular Automata                          |
-| 4/21  | ---                | cancelled                                              |
-| 4/28  | Gary               | A Chart Parsing Account of Scope Ambiguities           |
-| 5/5   | Everyone           | Fall 2017 Organizational Meeting                       |
+| 9/8   | Gary               | A Brief History of the Logic of Time                   |
+| 9/15  | Aniello            | Geometrical Morphology                                 |
+| 9/22  | Thomas             | Perceptrons                                            |
+| 9/29  | Jon                | Harmony Theory and Harmonic Grammar                    |
+| 10/6  | Jon                | Tensor Product Representations                         |
+| 10/13 | Jeff               | Neural Networks and Grammar Pt. 1                      |
+| 10/20 | Jeff               | Neural Networks and Grammar Pt. 2                      |
+| 10/27 | Mai Ha (Udel)      | TBA                                                    |
+| 11/3  | Alena              | TBA                                                    |
+| 11/10 | TBA                | TBA                                                    |
+| 11/17 | Sophie             | TBA                                                    |
+| 12/1  | Thomas             | Graph Theory                                           |
+| 12/8  | TBA                | TBA                                                    |
