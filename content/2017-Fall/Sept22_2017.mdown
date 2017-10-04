@@ -1,0 +1,8 @@
+Title: Perceptrons
+Author: Thomas Graf
+Date: 2017-09-18
+
+Hi all!
+
+This Friday, Thomas is going to give an Introduction to Perceptrons
+See you all on Friday!
