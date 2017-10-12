@@ -1,0 +1,8 @@
+Title: Jeff on Backpropagation and Stochastic Gradient Descent
+Author: Jeffrey Heinz
+Date: 2017-10-13
+
+Hi all!
+
+This Friday, Jeff will discuss backpropagation and stochadtic gradient descent in neural nets. The corresponding reading (Section 2.8 of Yoav Goldberg's book "Neural Network Methods for Natural Language Processing") can be found on the Google Drive. 
+See you all on Friday!

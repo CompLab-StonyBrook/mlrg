@@ -1,8 +1,8 @@
-Title: Geometric Representations for Minimalist Grammar
-Author: Jon Rawski
-Date: 2017-10-6
+Title: Jon on Geometric representations of Minimalist Grammars
+Author: Jn Rawski
+Date: 2017-10-06
 
 Hi all!
 
-This Friday, Jon will present "Geometric Representations for Minimalist Grammars" by beim Graben and Gerth. The paper can be found on the Google Drive. 
+This Friday, Jon will discuss beim Graben and Gerth's paper of "Geometric Representations for Minimalist Grammars". The paper can be found on the Google Drive. 
 See you all on Friday!
