@@ -1,0 +1,8 @@
+Title: Enes Avcu (UDelaware) on "Evolution of Neural networks"
+Author: Enes Avcu
+Date: 2017-10-20
+
+
+Hi all!
+This Friday, Enes Avcu from UDelaware will discuss the development of recursive neural networks, from perceptrons to Long Short-Term Memory nets. There is no corresponding reading
+See you all on Friday!
