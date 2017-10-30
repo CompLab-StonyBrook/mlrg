@@ -1,0 +1,10 @@
+Title: Alena on "Formal Restrictions on Multiple Tiers"
+Author: Jon Rawski
+Date: 2017-11-03
+
+Hi all!
+
+This Friday, Alena will present her recent manuscript "Formal Restrictions on Multiple Tiers". The abstract is below. See you all Friday!
+
+Abstract:
+The class of tier-based strictly local (TSL) languages has shown itself as a good fit for natural language patterns. Although there are some cases when one TSL grammar is not enough, there have never been proposed any limitations on tier alphabets of several cooperating TSL grammars. Here, we use harmonic systems with multiple feature spreadings as the litmus test for the possible configurations of tier alphabets. While theoretically possible relations among them are containment, disjunction and intersection, the latter one is unattested and we show why the absence of such configuration might simplify the system in whole.
