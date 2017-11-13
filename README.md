@@ -32,6 +32,19 @@ If you're affiliated with Stony Brook University, you can download a [virtual ma
 
     or use your package manager if you're on Linux.
 
+1.  A recent-ish version of the `make` tool.
+    This is usually already installed on Linux and OSX.
+    If it isn't, make sure you have the basic tools for compiling software installed.
+    On Debian and Ubuntu, the following should work:
+
+    ~~~~
+    sudo aptitutde install build-essential
+    ~~~~
+
+    On Windows, install [GnuWin32](http://gnuwin32.sourceforge.net/packages/make.htm) or [MinGW](http://www.mingw.org/).
+    The `make` binary also has to be in your PATH, which happens automatically on Linux and OSX but not Windows.
+
+
 1.  Python's typogrify library.
     As before, use pip or your package manager.
 
