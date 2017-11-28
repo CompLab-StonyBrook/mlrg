@@ -10,11 +10,11 @@ Date: 2017-09-05
 | 9/22  | Thomas             | Perceptrons                                            |
 | 9/29  | Jon                | Harmony Theory and Harmonic Grammar                    |
 | 10/6  | Jon                | Tensor Product Representations                         |
-| 10/13 | Jeff               | Neural Networks and Grammar Pt. 1                      |
-| 10/20 | Jeff               | Neural Networks and Grammar Pt. 2                      |
-| 10/27 | Mai Ha (Udel)      | TBA                                                    |
-| 11/3  | Alena              | TBA                                                    |
-| 11/10 | TBA                | TBA                                                    |
-| 11/17 | Sophie             | TBA                                                    |
-| 12/1  | Thomas             | Graph Theory                                           |
-| 12/8  | TBA                | TBA                                                    |
+| 10/13 | Jeff               | Neural Networks, Stochastic Gradient Descent, and Backpropagation                      |
+| 10/20 | Enes (Udel)        | Evolution of Neural Networks                           |
+| 10/27 | Mai Ha (Udel)      | Intro to Model-Theoretic Syntax                        |
+| 11/3  | Alena              | Formal Restrictions on Multiple Tiers                  |
+| 11/10 | Canceled           | TBA                                                    |
+| 11/17 | Hossep             | Computing Reduplication: Typology and learning         |
+| 12/1  | Hossep             | Computing Reduplication: Typology and learning         |
+| 12/8  | Sophie             | TBA                                                    |
