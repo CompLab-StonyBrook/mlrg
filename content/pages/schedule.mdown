@@ -1,20 +1,20 @@
 ﻿Title: Schedule
 Author: Jon Rawski
-Date: 2017-09-05
+Date: 2018-01-26
 
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 9/8   | Gary               | A Brief History of the Logic of Time                   |
-| 9/15  | Aniello            | Geometrical Morphology                                 |
-| 9/22  | Thomas             | Perceptrons                                            |
-| 9/29  | Jon                | Harmony Theory and Harmonic Grammar                    |
-| 10/6  | Jon                | Tensor Product Representations                         |
-| 10/13 | Jeff               | Neural Networks, Stochastic Gradient Descent, and Backpropagation                      |
-| 10/20 | Enes (Udel)        | Evolution of Neural Networks                           |
-| 10/27 | Mai Ha (Udel)      | Intro to Model-Theoretic Syntax                        |
-| 11/3  | Alena              | Formal Restrictions on Multiple Tiers                  |
-| 11/10 | Canceled           | TBA                                                    |
-| 11/17 | Hossep             | Computing Reduplication: Typology and learning         |
-| 12/1  | Hossep             | Computing Reduplication: Typology and learning         |
-| 12/8  | Sophie             | TBA                                                    |
+| 2/2  | Jeff                | Intro to Automata Theory                               |
+| 2/9  | TBD                 | Automata Theory                                        |
+| 2/16 | TBD                 | Graph Theory                                           |
+| 2/23 | TBD                 | Graph Theory                                           |
+| 3/2  | Rob                 | Category Theory                                        | 
+| 3/9  | TBD                 | Category Theory                                        |
+| 3/23 | TBD                 | Automata Theory                                        |
+| 3/30 | TBD                 | Automata Theory                                        |
+| 4/6  | TBD                 | Graph Theory                                           |
+| 4/13 | TBD                 | Graph Theory                                           |
+| 4/20 | TBD                 | Category Theory                                        |
+| 4/27 | TBD                 | Category Theory                                        |
+| 5/4  | TBD                 | TBD                                                    |

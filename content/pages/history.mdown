@@ -7,6 +7,7 @@ So far, the following topics have been covered:
 
 Semester     | Topic
 ------------ | ------------
+2018 Spring  | Automata Theory, Graph Theory, Category Theory
 2017 Fall    | Linear Algebra, Neural Networks, Graph Theory
 2017 Spring  | Categorial Grammars
 2016 Spring  | Game theory
