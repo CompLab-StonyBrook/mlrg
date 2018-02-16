@@ -5,12 +5,12 @@ Date: 2018-01-26
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 2/2  | Jeff                | Intro to Automata Theory                               |
-| 2/9  | TBD                 | Automata Theory                                        |
-| 2/16 | TBD                 | Graph Theory                                           |
-| 2/23 | TBD                 | Graph Theory                                           |
-| 3/2  | Rob                 | Category Theory                                        | 
-| 3/9  | TBD                 | Category Theory                                        |
+| 2/2  | Jeff                | MyHill-Nerode Theorem for Acceptors and Transducers                               |
+| 2/9  | N/A                 | Cancelled                                        |
+| 2/16 | Rob                 | Introduction to Category Theory                                           |
+| 2/23 | TBD                 | Category Theory                                           |
+| 3/2  | TBD                 | Graph Theory                                        | 
+| 3/9  | TBD                 | Graph Theory                                        |
 | 3/23 | TBD                 | Automata Theory                                        |
 | 3/30 | TBD                 | Automata Theory                                        |
 | 4/6  | TBD                 | Graph Theory                                           |
