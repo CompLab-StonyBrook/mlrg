@@ -5,13 +5,13 @@ Date: 2018-01-26
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 2/2  | Jeff                | MyHill-Nerode Theorem for Acceptors and Transducers                               |
-| 2/9  | N/A                 | Cancelled                                        |
-| 2/16 | Rob                 | Introduction to Category Theory                                           |
-| 2/23 | TBD                 | Category Theory                                           |
-| 3/2  | TBD                 | Graph Theory                                        | 
-| 3/9  | TBD                 | Graph Theory                                        |
-| 3/23 | TBD                 | Automata Theory                                        |
+| 2/2  | Jeff                | MyHill-Nerode Theorem for Acceptors and Transducers    |
+| 2/9  | N/A                 | Cancelled                                              |
+| 2/16 | Rob                 | Introduction to Category Theory                        |
+| 2/23 | Adam                | Category Theory and Ologs                              |
+| 3/2  | Thomas              | Tree languages and transducers                         | 
+| 3/9  | Thomas              | Tree Transducers Continued                             |
+| 3/23 | Open Discussion     | New frontiers in Tier-Based Strict Locality            |
 | 3/30 | TBD                 | Automata Theory                                        |
 | 4/6  | TBD                 | Graph Theory                                           |
 | 4/13 | TBD                 | Graph Theory                                           |
