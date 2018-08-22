@@ -1,10 +1,10 @@
-﻿Title: Welcome!
+﻿Title: SBU MathLing Reading Group
 Author: Thomas Graf
 URL:
 Template: home
 save_as: index.html
 
-This is the website for the Mathematical Linguistics Reading Group in the [Department of Linguistics](http://linguistics.stonybrook.edu) at [Stony Brook University](http://www.stonybrook.edu).
+This is the website for the Mathematical Linguistics Reading Group (MLRG) in the [Department of Linguistics](http://linguistics.stonybrook.edu) at [Stony Brook University](http://www.stonybrook.edu).
 
 The reading group provides a venue for
 
@@ -22,9 +22,9 @@ You can follow us by [subscribing to our news feed](http://complab-stonybrook.gi
 
 ## Current Semester
 
-**Time**: Fri 1:30 - 2:30  
+**Time**: [check the poll](https://www.when2meet.com/?7018028-BSZj7)  
 **Location**: CompLab (SBS N-250)  
-**Topics**: see Schedule  
+**Topics**: see [Schedule]({filename}/pages/schedule.mdown)  
 **Readings**: [Google drive](https://drive.google.com/a/stonybrook.edu/folderview?id=0B09645QdWLiYVVRjSElwcVkwaTg&usp=sharing) (access restricted)  
-**Student Organizers**: [Jon Rawski](http://www.jrawski.jimdo.com/)   
+**Student Organizer(s)**: Ayla Karakas  
 **Faculty Organizer**: [Thomas Graf](http://thomasgraf.net)

@@ -1,20 +1,21 @@
 ﻿Title: Schedule
-Author: Jon Rawski
-Date: 2018-01-26
+Author: Thomas Graf
+Date: 2018-08-26
 
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 2/2  | Jeff                | MyHill-Nerode Theorem for Acceptors and Transducers    |
-| 2/9  | N/A                 | Cancelled                                              |
-| 2/16 | Rob                 | Introduction to Category Theory                        |
-| 2/23 | Adam                | Category Theory and Ologs                              |
-| 3/2  | Thomas              | Tree languages and transducers                         | 
-| 3/9  | Thomas              | Tree Transducers Continued                             |
-| 3/23 | Open Discussion     | New frontiers in Tier-Based Strict Locality            |
-| 3/30 | TBD                 | Automata Theory                                        |
-| 4/6  | TBD                 | Graph Theory                                           |
-| 4/13 | TBD                 | Graph Theory                                           |
-| 4/20 | TBD                 | Category Theory                                        |
-| 4/27 | TBD                 | Category Theory                                        |
-| 5/4  | TBD                 | TBD                                                    |
+| 08/31 | tbd                | tbd                                                    |
+| 09/07 |                    |                                                        |
+| 09/14 |                    |                                                        |
+| 09/21 |                    |                                                        |
+| 09/28 |                    |                                                        |
+| 10/05 |                    |                                                        |
+| 10/12 |                    |                                                        |
+| 10/19 |                    |                                                        |
+| 10/26 |                    |                                                        |
+| 11/02 |                    |                                                        |
+| 11/09 |                    |                                                        |
+| 11/16 |                    |                                                        |
+| 11/30 |                    |                                                        |
+| 12/07 |                    |                                                        |
