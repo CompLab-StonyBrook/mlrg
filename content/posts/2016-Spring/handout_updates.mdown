@@ -1,5 +1,5 @@
 Title: Handouts from Last Few Meetings
-Author: Thomas 
+Author: Thomas Graf
 Date: 2016-05-02
 
 A couple of handouts have now been added to the Google drive. This includes the slides to Camillo's talk on signaling games, Alena and Sophie's slides on computational morphology, and Gary's write-up of Gödel's modal logic proof of the existence of God.

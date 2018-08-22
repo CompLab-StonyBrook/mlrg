@@ -1,5 +1,5 @@
 Title: Jeff on Backpropagation and Stochastic Gradient Descent
-Author: Jeffrey Heinz
+Author: Jon Rawski
 Date: 2017-10-13
 
 Hi all!

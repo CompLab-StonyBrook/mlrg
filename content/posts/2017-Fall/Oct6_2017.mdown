@@ -1,5 +1,5 @@
 Title: Jon on Geometric representations of Minimalist Grammars
-Author: Jn Rawski
+Author: Jon Rawski
 Date: 2017-10-06
 
 Hi all!
