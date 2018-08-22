@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://complab-stonybrook.github.io/mlrg'
+SITEURL = 'https://complab-stonybrook.github.io/mlrg'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
