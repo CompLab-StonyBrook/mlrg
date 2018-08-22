@@ -1,3 +1,5 @@
+cache
+cache/*
 output
 output/*
 *.py[cod]
