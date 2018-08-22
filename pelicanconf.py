@@ -36,7 +36,7 @@ HOME_NEWS_COUNT = 5
 
 DELETE_OUTPUT_DIRECTORY = True
 LOAD_CONTENT_CACHE = False
-TYPOGRIFY = True
+TYPOGRIFY = False
 
 DEFAULT_DATE = 'fs'
 
@@ -49,10 +49,10 @@ EXTRA_PATH_METADATA = {
 }
 
 # change folder hierarchy in output
-ARTICLE_DIR = 'posts'
+ARTICLE_PATHS = 'posts'
 ARTICLE_URL = 'news/{category}/{slug}.html'
 ARTICLE_SAVE_AS = 'news/{category}/{slug}.html'
-PAGE_DIR = 'pages'
+PAGE_PATHS = 'pages'
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 AUTHOR_SAVE_AS = False
