@@ -37,9 +37,8 @@
 	    </div>
 	    {% if pages %}
 	      <nav class="pages">
-            <a href="{{ SITEURL }}/news.html">News</a> - 
 	        {% for p in pages %}
-              {% if p.title != "Welcome!" %}
+              {% if p.title == "History" or p.title == "Schedule" %}
 			  <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
 			  {% if not loop.last %}-{% endif %}
               {% endif %}
@@ -58,7 +57,7 @@
 		  <div class="sidebar">
 
 	        <nav>
-	          <h2>Semester</h2>
+	          <h2>Archive</h2>
 	          <ul>
 	            {% for cat, null in categories %}
 	              <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
