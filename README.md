@@ -45,8 +45,8 @@ If you're affiliated with Stony Brook University, you can download a [virtual ma
     The `make` binary also has to be in your PATH, which happens automatically on Linux and OSX but not Windows.
 
 
-1.  Python's typogrify library.
-    As before, use pip or your package manager.
+1.  ~~Python's typogrify library~~.
+    This is no longer needed
 
 
 A Note on pip Installations
@@ -58,10 +58,10 @@ A better solution is to create a *virtual environment* in your home directory th
 ~~~~~
 mkdir ~/.mlrg_env
 virtualenv ~/.mlrg_env
-~/.mlrg_env/bin/pip install pelican ghp-import typogrify
+~/.mlrg_env/bin/pip install pelican ghp-import
 ~~~~~
 
-You then have to make the pelican script accessible through your shell, either by adding `~/.mlrg_env` to your path or by symlinking it to a folder in your path (e.g. `/usr/bin` or `~/bin`).
+You then have to make the pelican script accessible through your shell, either by adding `~/.mlrg_env` to your PATH or by symlinking it to a folder in your PATH (e.g. `/usr/bin` or `~/bin`).
 
 
 File Structure
