@@ -49,10 +49,10 @@ EXTRA_PATH_METADATA = {
 }
 
 # change folder hierarchy in output
-ARTICLE_PATHS = 'posts'
+ARTICLE_PATHS = ['posts']
 ARTICLE_URL = 'news/{category}/{slug}.html'
 ARTICLE_SAVE_AS = 'news/{category}/{slug}.html'
-PAGE_PATHS = 'pages'
+PAGE_PATHS = ['pages']
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 AUTHOR_SAVE_AS = False
