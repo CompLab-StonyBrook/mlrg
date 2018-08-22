@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Thomas Graf'
-SITENAME = u'MathLing@SBU'
+SITENAME = u'MLRG'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
@@ -24,7 +24,7 @@ TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 FEED_MAX_ITEMS = 8
 
-DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -40,10 +40,22 @@ TYPOGRIFY = True
 
 DEFAULT_DATE = 'fs'
 
-INDEX_SAVE_AS = 'news.html'
+INDEX_SAVE_AS = False
 STATIC_PATHS = ['images', 'extra/CNAME', 'extra/robots.txt']
 STATIC_EXCLUDE_SOURCES = False
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/CNAME': {'path': 'CNAME'},
 }
+
+# change folder hierarchy in output
+ARTICLE_DIR = 'posts'
+ARTICLE_URL = 'news/{category}/{slug}.html'
+ARTICLE_SAVE_AS = 'news/{category}/{slug}.html'
+PAGE_DIR = 'pages'
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+AUTHOR_SAVE_AS = False
+CATEGORY_SAVE_AS = 'semester/{slug}.html'
+CATEGORY_URL = 'semester/{slug}.html'
+DIRECT_TEMPLATES = ['index']
