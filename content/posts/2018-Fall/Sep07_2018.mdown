@@ -1,0 +1,7 @@
+Title: Alëna presents NNM Intro & Ch. 1
+Author: Ayla Karakas
+Date: 2018-09-07
+
+This Friday (September 7), Alëna will be presenting the introduction and chapter 1 of Yoav Goldberg's *Neural Network Methods for Natural Language Processing*.
+No reading necessary, but if you want to take a gander, you can find the book in the Google drive.
+Hope to see you there!
