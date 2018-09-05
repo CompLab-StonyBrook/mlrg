@@ -2,28 +2,20 @@
 Author: Thomas Graf
 Date: 2018-08-26
 
-Our official meeting time for Fall 2018 semester is Friday, 12pm-1pm.
-
-Backup topics will come from _Neural Network Methods for Natural Language Processing_ by Yoav Goldberg. 
-These are indicated on the schedule using { }.
-
-Below is the current prospective schedule for the semester, to be updated as time progresses:
-(Last updated: 09/04/18)
-
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 09/07 | Alëna              | { Introduction & Chapter 1 }                           |
-| 09/14 | Seoyoung           | TSL harmony project                                    |
-| 09/21 | Rawski             | { Chapter 2 }                                          |
-| 09/28 | Sabine             | Computational Syntax / Minimalist Grammars             |
-| 10/05 | -                  | -                                                      |
-| 10/12 | -                  | { Chapter X }                                          |
-| 10/19 | Gary               | Mystery topic                                          |
-| 10/26 | -                  | -                                                      |
-| 11/02 | Aniello            | Parsing / Learning                                     |
-| 11/09 | -                  | -                                                      |
-| 11/16 | Thomas             | nati is IO-TSL                                         |
-| 11/30 | -                  | -                                                      |
-| 12/07 | -                  | -                                                      |
-
+| 08/31 | tbd                | tbd                                                    |
+| 09/07 |                    |                                                        |
+| 09/14 |                    |                                                        |
+| 09/21 |                    |                                                        |
+| 09/28 |                    |                                                        |
+| 10/05 |                    |                                                        |
+| 10/12 |                    |                                                        |
+| 10/19 |                    |                                                        |
+| 10/26 |                    |                                                        |
+| 11/02 |                    |                                                        |
+| 11/09 |                    |                                                        |
+| 11/16 |                    |                                                        |
+| 11/30 |                    |                                                        |
+| 12/07 |                    |                                                        |
