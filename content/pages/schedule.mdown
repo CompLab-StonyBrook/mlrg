@@ -15,7 +15,7 @@ Below is the current prospective schedule for the semester, to be updated as tim
 | 09/14 | Seoyoung           | TSL harmony project                                    |
 | 09/21 | Rawski             | NNM: Chapter 2                                         |
 | 09/28 | Sabine             | Computational Syntax / Minimalist Grammars             |
-| 10/05 | -                  | -                                                      |
+| 10/05 | -                  | no meeting (NELS)                                      |
 | 10/12 | -                  | NNM: Chapter X                                         |
 | 10/19 | Gary               | Mystery topic                                          |
 | 10/26 | -                  | -                                                      |
