@@ -11,9 +11,9 @@ Below is the current prospective schedule for the semester, to be updated as tim
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 09/07 | Alëna              | NNM: Introduction & Chapter 1                          |
+| 09/07 | Alëna              | NNM: Introduction & Chapter 2                          |
 | 09/14 | Seoyoung           | TSL harmony project                                    |
-| 09/21 | Rawski             | NNM: Chapter 2                                         |
+| 09/21 | Rawski             | NNM: Chapter 3                                         |
 | 09/28 | Sabine             | Computational Syntax / Minimalist Grammars             |
 | 10/05 | -                  | -                                                      |
 | 10/12 | -                  | NNM: Chapter X                                         |

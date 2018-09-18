@@ -1,0 +1,5 @@
+Title: Jon presenting NNM Ch. 3
+Author: Ayla Karakas
+Date: 2018-09-18
+
+This Friday (September 21), Jon will be presenting chapter 3 of Yoav Goldberg's _Neural Network Methods for Natural Language Processing_. No reading necessary, but it may be helpful to take a look and/or review the handouts provided by Alëna when she presented the introduction and chapter 2 a couple weeks ago. Both the textbook and handouts can be found in the Google drive. Hope to see you at the meeting!
