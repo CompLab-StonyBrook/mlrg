@@ -1,0 +1,11 @@
+Title: NNM Ch. 5 with Nazila (+visual NN guides)
+Author: Ayla Karakas
+Date: 2018-10-09
+
+Hi folks, hope everyone had at least a relatively enjoyable fall break! This Friday (October 12), Nazila will be presenting chapter 5 of Goldberg's _Neural Network Methods for Natural Language Processing_. Hope to see you there!
+
+P.S. - For those of you who are feeling a bit fuzzy on perceptrons and basic NN concepts we've gone over, here are some nice visual and interactive guides that may be fun to play around with:
+
+[Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+
+[Feedforward Neural Networks](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
