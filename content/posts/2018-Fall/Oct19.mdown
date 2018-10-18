@@ -1,0 +1,7 @@
+Title: Thomas on nati is IO-TSL
+Author: Ayla Karakas
+Date: 2018-10-18
+
+Hi folks! At tomorrow's meeting (October 19), Thomas will talk about the subregular complexity of segmental phonology.  He will present IO-TSL as a new extension of TSL and explain how this class captures Sanskrit n-retroflexion (nati), perhaps the most complex known process in segmental phonology.
+
+This is based on joint work with Connor Mayer (UCLA), which will be presented at this year's SIGMORPHON.
