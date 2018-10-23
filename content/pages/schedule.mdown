@@ -6,7 +6,7 @@ Backup topics will come from *Neural Network Methods for Natural Language Proces
 The chapters are indicated on the schedule as NNM.
 
 Below is the current prospective schedule for the semester, to be updated as time progresses:
-(Last updated: 09/04/18)
+(Last updated: 10/22/18)
 
 
 | Day   | Presenter          | Topic                                                  |
@@ -15,12 +15,12 @@ Below is the current prospective schedule for the semester, to be updated as tim
 | 09/14 | Seoyoung           | TSL harmony project                                    |
 | 09/21 | Rawski             | NNM: Chapter 3                                         |
 | 09/28 | Sabine             | Computational Syntax / Minimalist Grammars             |
-| 10/05 | -                  | -                                                      |
-| 10/12 | -                  | NNM: Chapter X                                         |
-| 10/19 | Gary               | Mystery topic                                          |
-| 10/26 | -                  | -                                                      |
-| 11/02 | Aniello            | Parsing / Learning                                     |
-| 11/09 | -                  | -                                                      |
-| 11/16 | Thomas             | nati is IO-TSL                                         |
+| 10/05 | NO MEETING         | -                                                      |
+| 10/12 | Nazila             | NNM: Chapter 5                                         |
+| 10/19 | Thomas             | nati is IO-TSL                                         |
+| 10/26 | NO MEETING         | -                                                      |
+| 11/02 | need volunteer     | NNM: ?                                                 |
+| 11/09 | Aniello            | Parsing / Learning                                     |
+| 11/16 | -                  | -                                                      |
 | 11/30 | -                  | -                                                      |
 | 12/07 | -                  | -                                                      |
