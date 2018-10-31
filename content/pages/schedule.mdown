@@ -6,7 +6,7 @@ Backup topics will come from *Neural Network Methods for Natural Language Proces
 The chapters are indicated on the schedule as NNM.
 
 Below is the current prospective schedule for the semester, to be updated as time progresses:
-(Last updated: 10/22/18)
+(Last updated: 10/31/18)
 
 
 | Day   | Presenter          | Topic                                                  |
@@ -19,8 +19,8 @@ Below is the current prospective schedule for the semester, to be updated as tim
 | 10/12 | Nazila             | NNM: Chapter 5                                         |
 | 10/19 | Thomas             | nati is IO-TSL                                         |
 | 10/26 | NO MEETING         | -                                                      |
-| 11/02 | need volunteer     | NNM: ?                                                 |
-| 11/09 | Aniello            | Parsing / Learning                                     |
-| 11/16 | -                  | -                                                      |
+| 11/02 | Gary               | A Brief History of Logic and Time                      |
+| 11/09 | need volunteer     | NNM: ?                                                 |
+| 11/16 | Aniello            | Parsing / Learning                                     |
 | 11/30 | -                  | -                                                      |
 | 12/07 | -                  | -                                                      |
