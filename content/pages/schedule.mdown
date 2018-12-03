@@ -6,7 +6,7 @@ Backup topics will come from *Neural Network Methods for Natural Language Proces
 The chapters are indicated on the schedule as NNM.
 
 Below is the current prospective schedule for the semester, to be updated as time progresses:
-(Last updated: 11/07/18)
+(Last updated: 12/03/18)
 
 
 | Day   | Presenter          | Topic                                                  |
@@ -22,5 +22,5 @@ Below is the current prospective schedule for the semester, to be updated as tim
 | 11/02 | Gary               | A Brief History of Logic and Time                      |
 | 11/09 | Jeff               | NNM: Chapter 9                                         |
 | 11/16 | Aniello            | Parsing / Learning                                     |
-| 11/30 | -                  | -                                                      |
-| 12/07 | -                  | -                                                      |
+| 11/30 | Jeff               | NNM: Chapter 9 (cont'd)                                | 
+| 12/07 | Jon                | Tensor Product Representations (...)                   |
