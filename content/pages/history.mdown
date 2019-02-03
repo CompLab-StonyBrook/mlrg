@@ -7,10 +7,11 @@ So far, the following topics have been covered:
 
 Semester     | Topic
 ------------ | ------------
-2018 Fall    | to be decided
-2018 Spring  | Automata Theory, Graph Theory, Category Theory
-2017 Fall    | Linear Algebra, Neural Networks, Graph Theory
-2017 Spring  | Categorial Grammars
+2019 Spring  | no fixed topic
+2018 Fall    | Neural networks (Goldberg textbook)
+2018 Spring  | Automata theory, graph theory, category theory
+2017 Fall    | Linear algebra, neural networks, graph theory
+2017 Spring  | Categorial grammar
 2016 Spring  | Game theory
 2015 Fall    | Dynamic semantics
 2015 Spring  | Generalized quantifiers

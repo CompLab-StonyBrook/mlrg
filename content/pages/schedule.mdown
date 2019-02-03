@@ -2,25 +2,23 @@
 Author: Thomas Graf
 Date: 2018-08-26
 
-Backup topics will come from *Neural Network Methods for Natural Language Processing* by Yoav Goldberg. 
-The chapters are indicated on the schedule as NNM.
-
-Below is the current prospective schedule for the semester, to be updated as time progresses:
-(Last updated: 12/03/18)
+Below is the current schedule for the semester, to be updated as time progresses.  
+(Last updated: 02/02/19)
 
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 09/07 | Alëna              | NNM: Introduction & Chapter 2                          |
-| 09/14 | Seoyoung           | TSL harmony project                                    |
-| 09/21 | Rawski             | NNM: Chapter 3                                         |
-| 09/28 | Sabine             | Computational Syntax / Minimalist Grammars             |
-| 10/05 | NO MEETING         | -                                                      |
-| 10/12 | Nazila             | NNM: Chapter 5                                         |
-| 10/19 | Thomas             | nati is IO-TSL                                         |
-| 10/26 | NO MEETING         | -                                                      |
-| 11/02 | Gary               | A Brief History of Logic and Time                      |
-| 11/09 | Jeff               | NNM: Chapter 9                                         |
-| 11/16 | Aniello            | Parsing / Learning                                     |
-| 11/30 | Jeff               | NNM: Chapter 9 (cont'd)                                | 
-| 12/07 | Jon                | Tensor Product Representations (...)                   |
+| 02/08 | no meeting         |                                                        |
+| 02/15 |                    |                                                        |
+| 02/22 |                    |                                                        |
+| 03/01 |                    |                                                        |
+| 03/08 |                    |                                                        |
+| 03/15 | no meeting         |                                                        |
+| 03/22 | spring break       |                                                        |
+| 03/29 |                    |                                                        |
+| 04/05 |                    |                                                        |
+| 04/12 |                    |                                                        |
+| 04/19 |                    |                                                        |
+| 04/26 |                    |                                                        | 
+| 05/03 |                    |                                                        |
+| 05/10 |                    |                                                        |
