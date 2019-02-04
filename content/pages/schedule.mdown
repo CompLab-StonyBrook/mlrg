@@ -3,22 +3,22 @@ Author: Thomas Graf
 Date: 2018-08-26
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 02/02/19)
+(Last updated: 02/04/19)
 
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
 | 02/08 | no meeting         |                                                        |
-| 02/15 |                    |                                                        |
-| 02/22 |                    |                                                        |
-| 03/01 |                    |                                                        |
-| 03/08 |                    |                                                        |
+| 02/15 | Nazila             | Island complexity                                      |
+| 02/22 | Aniello            | Sentence processing with an MG parser                  |
+| 03/01 | Thomas             | TBA                                                    |
+| 03/08 | Jeff               | TBA                                                    |
 | 03/15 | no meeting         |                                                        |
 | 03/22 | spring break       |                                                        |
-| 03/29 |                    |                                                        |
-| 04/05 |                    |                                                        |
-| 04/12 |                    |                                                        |
-| 04/19 |                    |                                                        |
-| 04/26 |                    |                                                        | 
-| 05/03 |                    |                                                        |
-| 05/10 |                    |                                                        |
+| 03/29 | Gary               | TBA                                                    |
+| 04/05 | TBD                |                                                        |
+| 04/12 | -                  | Computational Phonology Workshop                       |
+| 04/19 | TBD                |                                                        |
+| 04/26 | TBD                |                                                        | 
+| 05/03 | TBD                |                                                        |
+| 05/10 | TBD                |                                                        |
