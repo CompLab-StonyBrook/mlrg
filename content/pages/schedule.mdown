@@ -18,7 +18,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 03/29 | Gary               | TBA                                                    |
 | 04/05 | TBD                |                                                        |
 | 04/12 | -                  | Computational Phonology Workshop                       |
-| 04/19 | TBD                |                                                        |
+| 04/19 | Alëna              | OSTIA Walkthrough                                      |
 | 04/26 | TBD                |                                                        | 
 | 05/03 | TBD                |                                                        |
 | 05/10 | TBD                |                                                        |
