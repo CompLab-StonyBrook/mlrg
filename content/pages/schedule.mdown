@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2018-08-26
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 02/04/19)
+(Last updated: 02/20/19)
 
 
 | Day   | Presenter          | Topic                                                  |
@@ -11,14 +11,14 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 02/08 | no meeting         |                                                        |
 | 02/15 | Nazila             | Island complexity                                      |
 | 02/22 | Aniello            | Sentence processing with an MG parser                  |
-| 03/01 | Thomas             | TBA                                                    |
-| 03/08 | Jeff               | TBA                                                    |
+| 03/01 | Alëna              | OSTIA Walkthrough pt. 1                                |
+| 03/08 | Sabine             | Diagnosing movement via subregular complexity          |
 | 03/15 | no meeting         |                                                        |
 | 03/22 | spring break       |                                                        |
 | 03/29 | Gary               | TBA                                                    |
-| 04/05 | TBD                |                                                        |
+| 04/05 | Jeff               | TBA                                                    |
 | 04/12 | -                  | Computational Phonology Workshop                       |
-| 04/19 | Alëna              | OSTIA Walkthrough                                      |
+| 04/19 | Alëna              | OSTIA Walkthrough pt. 2                                |
 | 04/26 | TBD                |                                                        | 
 | 05/03 | TBD                |                                                        |
 | 05/10 | TBD                |                                                        |

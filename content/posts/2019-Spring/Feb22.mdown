@@ -1,0 +1,5 @@
+Title: Aniello on sentence processing with an MG parser
+Author: Ayla Karakas
+Date: 2019-02-20
+
+Hello world! This week (Feb. 22) Aniello will be presenting on sentence processing with an MG parser. Hope to see you there!
