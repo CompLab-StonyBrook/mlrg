@@ -1,0 +1,5 @@
+Title: Alëna presenting OSTIA
+Author: Ayla Karakas
+Date: 2019-02-27
+
+Hello all! This Friday (March 1) Alëna will be presenting about her implementation of the OSTIA algorithm. This will be part 1, where she will be presenting an introduction/overview. Part 2 will come after the spring break. Hope to see you there! :)
