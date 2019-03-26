@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2018-08-26
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 02/20/19)
+(Last updated: 03/26/19)
 
 
 | Day   | Presenter          | Topic                                                  |
@@ -15,7 +15,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 03/08 | Sabine             | Diagnosing movement via subregular complexity          |
 | 03/15 | no meeting         |                                                        |
 | 03/22 | spring break       |                                                        |
-| 03/29 | Gary               | TBA                                                    |
+| 03/29 | Gary               | Gödel's platonism vs. Turing's computationalism        |
 | 04/05 | Jeff               | TBA                                                    |
 | 04/12 | -                  | Computational Phonology Workshop                       |
 | 04/19 | Alëna              | OSTIA Walkthrough pt. 2                                |
