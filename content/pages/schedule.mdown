@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2018-08-26
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 03/26/19)
+(Last updated: 04/02/19)
 
 
 | Day   | Presenter          | Topic                                                  |
@@ -16,9 +16,9 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 03/15 | no meeting         |                                                        |
 | 03/22 | spring break       |                                                        |
 | 03/29 | Gary               | Gödel's platonism vs. Turing's computationalism        |
-| 04/05 | Jeff               | TBA                                                    |
-| 04/12 | -                  | Computational Phonology Workshop                       |
-| 04/19 | Alëna              | OSTIA Walkthrough pt. 2                                |
-| 04/26 | TBD                |                                                        | 
-| 05/03 | TBD                |                                                        |
+| 04/05 | Thomas             | Top-down recognition of syntactic constraints          |
+| 04/12 | Jon                | QF Least-Fixed-Point Logic Transformations for strings |
+| 04/19 | -                  | Computational Phonology Workshop                       |
+| 04/26 | Alëna              | OSTIA Walkthrough pt. 2                                | 
+| 05/03 | Jeff               | Modeling and Learning Optional Processes with wDFA     |
 | 05/10 | TBD                |                                                        |
