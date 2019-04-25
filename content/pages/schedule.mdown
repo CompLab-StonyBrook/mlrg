@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2018-08-26
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 04/02/19)
+(Last updated: 04/25/19)
 
 
 | Day   | Presenter          | Topic                                                  |
@@ -19,6 +19,6 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 04/05 | Thomas             | Top-down recognition of syntactic constraints          |
 | 04/12 | Jon                | QF Least-Fixed-Point Logic Transformations for strings |
 | 04/19 | -                  | Computational Phonology Workshop                       |
-| 04/26 | Alëna              | OSTIA Walkthrough pt. 2                                | 
+| 04/26 | Alëna & Ayla       | Tracking morphological changes in Shakespeare's works  | 
 | 05/03 | Jeff               | Modeling and Learning Optional Processes with wDFA     |
 | 05/10 | TBD                |                                                        |
