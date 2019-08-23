@@ -1,24 +1,25 @@
 ﻿Title: Schedule
 Author: Thomas Graf
-Date: 2018-08-26
+Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 04/25/19)
+(Last updated: 08/22/19)
 
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
-| 02/08 | no meeting         |                                                        |
-| 02/15 | Nazila             | Island complexity                                      |
-| 02/22 | Aniello            | Sentence processing with an MG parser                  |
-| 03/01 | Alëna              | OSTIA Walkthrough pt. 1                                |
-| 03/08 | Sabine             | Diagnosing movement via subregular complexity          |
-| 03/15 | no meeting         |                                                        |
-| 03/22 | spring break       |                                                        |
-| 03/29 | Gary               | Gödel's platonism vs. Turing's computationalism        |
-| 04/05 | Thomas             | Top-down recognition of syntactic constraints          |
-| 04/12 | Jon                | QF Least-Fixed-Point Logic Transformations for strings |
-| 04/19 | -                  | Computational Phonology Workshop                       |
-| 04/26 | Alëna & Ayla       | Tracking morphological changes in Shakespeare's works  | 
-| 05/03 | Jeff               | Modeling and Learning Optional Processes with wDFA     |
-| 05/10 | TBD                |                                                        |
+| 08/30 | organization       |                                                        |
+| 09/06 | Dakotah            | TSL characterization                                   |
+| 09/13 | Thomas             | OTSL properly subsumes SP                              |
+| 09/20 |                    |                                                        |
+| 09/27 |                    |                                                        |
+| 10/04 |                    |                                                        |
+| 10/11 |                    |                                                        |
+| 10/18 |                    |                                                        |
+| 10/25 |                    |                                                        |
+| 11/01 |                    |                                                        |
+| 11/08 |                    |                                                        |
+| 11/15 |                    |                                                        |
+| 11/22 |                    |                                                        |
+| 11/29 | no meeting         |                                                        |
+| 12/06 |                    |                                                        |
