@@ -1,0 +1,11 @@
+Title: Meeting Time Poll for Fall 2019
+Author: Thomas Graf
+Date: 2019-08-22
+
+Welcome back everyone!
+
+With the start of a new semester, we have to once again agree on a meeting time.
+As usual, we will meet for one hour each Friday at some time around noon.
+Please indicate your scheduling constraints at the [when2meet poll](http://mlrg.thomasgraf.net/survey).
+
+You do not need to create an account, just login with your name and mark all slots in green that work for you.
