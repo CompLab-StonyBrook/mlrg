@@ -10,13 +10,14 @@ System Requirements
 
 If you're affiliated with Stony Brook University, you can download a [virtual machine image](https://drive.google.com/a/stonybrook.edu/file/d/0B09645QdWLiYUldGSGl5Tmx0Vm8/view?usp=sharing) that comes with all necessary packages pre-installed.
 
-1.  Recent version of Python2.
+1.  Recent version of Python3.
 
-1.  Pelican 3.6 or higher.
+1.  Pelican 4.0 or higher.
     Under Linux, this might already be in your repository.
     
-    - In Debian Jessie you have to activate the backports repository to get a recent version.
-    - In Ubuntu 14.04 (LTS) you'll need to find a ppa or use the Mac/Windows method.
+    - In Debian Jessie and older releases you have to activate the backports repository to get a recent version.
+      The recent Debian Stable release already has Pelican 4.
+    - In Ubuntu you might have to find a ppa or use the Mac/Windows method.
     - On OSX and Windows (and Linux, if necessary) you can install Pelican via Python's package manager pip.
 
     ~~~~~
