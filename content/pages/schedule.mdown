@@ -3,23 +3,23 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 08/22/19)
+(Last updated: 08/30/19)
 
 
-| Day   | Presenter          | Topic                                                  |
-|-------|--------------------|--------------------------------------------------------|
-| 08/30 | organization       |                                                        |
-| 09/06 | Dakotah            | TSL characterization                                   |
-| 09/13 | Thomas             | OTSL properly subsumes SP                              |
-| 09/20 |                    |                                                        |
-| 09/27 |                    |                                                        |
-| 10/04 |                    |                                                        |
-| 10/11 |                    |                                                        |
-| 10/18 |                    |                                                        |
-| 10/25 |                    |                                                        |
-| 11/01 |                    |                                                        |
-| 11/08 |                    |                                                        |
-| 11/15 |                    |                                                        |
-| 11/22 |                    |                                                        |
-| 11/29 | no meeting         |                                                        |
-| 12/06 |                    |                                                        |
+| Day   | Presenter          | Topic                                          |
+|-------|--------------------|------------------------------------------------|
+| 08/30 | Thomas             | OTSL properly subsumes SP                      |
+| 09/06 | N/A                | No meeting                                     |
+| 09/13 | Dakotah            | TSL characterization                           |
+| 09/20 |                    | Book                                           |
+| 09/27 | Jon                | Subregular n-functions                         |
+| 10/04 |                    | Book                                           |
+| 10/11 | N/A                | No meeting                                     |
+| 10/18 |                    | Book                                           |
+| 10/25 |                    |                                                |
+| 11/01 |                    | Book                                           |
+| 11/08 | Jeff               | TBD                                            |
+| 11/15 | Gary               | TBD                                            |
+| 11/22 | Alya               | TBD                                            |
+| 11/29 | N/A                | No meeting                                     |
+| 12/06 |                    |                                                |
