@@ -1,16 +1,16 @@
 ﻿Title: Schedule
 Author: Thomas Graf
-Date: 2019-08-22
+Date: 2019-08-31
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 08/22/19)
+(Last updated: 08/31/19)
 
 
 | Day   | Presenter          | Topic                                                  |
 |-------|--------------------|--------------------------------------------------------|
 | 08/30 | organization       |                                                        |
-| 09/06 | Dakotah            | TSL characterization                                   |
-| 09/13 | Thomas             | OTSL properly subsumes SP                              |
+| 09/13 | no meeting         |
+| 09/13 | Dakotah            | TSL characterization                                   |
 | 09/20 |                    |                                                        |
 | 09/27 |                    |                                                        |
 | 10/04 |                    |                                                        |

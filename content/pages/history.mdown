@@ -7,6 +7,7 @@ So far, the following topics have been covered:
 
 Semester     | Topic
 ------------ | ------------
+2019 Fall    | Algorithms and data structures
 2019 Spring  | no fixed topic
 2018 Fall    | Neural networks (Goldberg textbook)
 2018 Spring  | Automata theory, graph theory, category theory
