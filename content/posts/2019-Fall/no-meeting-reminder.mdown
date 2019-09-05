@@ -1,0 +1,6 @@
+Title: No Meeting This Week
+Author: Dakotah Lambert
+Date: 2019-09-05
+
+Just a reminder to everyone that we are not meeting Friday September 6th.
+Our first real meeting will be next Friday, the 13th, where Dakotah will be presenting a characterization of Tier-Based Strictly Local stringsets.
