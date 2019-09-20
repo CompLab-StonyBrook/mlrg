@@ -12,7 +12,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 09/06 | N/A                | No meeting                                     |
 | 09/13 | Dakotah            | TSL characterization                           |
 | 09/20 | Thomas             | ISL tree transductions                         |
-| 09/27 | Jon                | Subregular n-functions                         |
+| 09/27 | Jon                | Subregular n-languages and n-functions         |
 | 10/04 | Al&#xEB;na         | Sorting algorithms                             |
 | 10/11 | N/A                | No meeting                                     |
 | 10/18 |                    | Book                                           |
@@ -20,6 +20,6 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 11/01 |                    | Book                                           |
 | 11/08 | Jeff               | TBD                                            |
 | 11/15 | Gary               | TBD                                            |
-| 11/22 | Alya               | TBD                                            |
+| 11/22 | Ayla               | TBD                                            |
 | 11/29 | N/A                | No meeting                                     |
 | 12/06 |                    |                                                |
