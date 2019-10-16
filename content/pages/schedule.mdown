@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 09/19/19)
+(Last updated: 10/16/19)
 
 
 | Day   | Presenter          | Topic                                          |
@@ -15,7 +15,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 09/27 | Jon                | Subregular n-languages and n-functions         |
 | 10/04 | Al&#xEB;na         | Sorting algorithms                             |
 | 10/11 | N/A                | No meeting                                     |
-| 10/18 |                    | Book                                           |
+| 10/18 | Aniello            | Structural complexity in Minimalist parsing    |
 | 10/25 |                    |                                                |
 | 11/01 |                    | Book                                           |
 | 11/08 | Jeff               | TBD                                            |
