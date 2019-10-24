@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 10/19/19)
+(Last updated: 10/24/19)
 
 
 | Day   | Presenter          | Topic                                          |
@@ -20,6 +20,6 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 11/01 |                    | Book                                           |
 | 11/08 | Jeff               | TBD                                            |
 | 11/15 | Gary               | TBD                                            |
-| 11/22 | Ayla               | TBD                                            |
+| 11/22 |                    | Available                                      |
 | 11/29 | N/A                | No meeting                                     |
 | 12/06 |                    |                                                |
