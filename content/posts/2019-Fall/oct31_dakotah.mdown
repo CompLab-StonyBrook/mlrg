@@ -1,0 +1,7 @@
+Title: Dakotah on a TSL learner
+Author: Dakotah Lambert
+Date: 2019-10-31
+
+Tomorrow Dakotah will be discussing a way to modify a typical SP learner to account for TSL stringsets.
+Any feedback would be appreciated, on topics from the algorithm itself to the types of things that should be discussed when presenting a Gold-style learner.
+Hope to see you all there!
