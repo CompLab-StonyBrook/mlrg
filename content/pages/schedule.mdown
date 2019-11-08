@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 10/31/19)
+(Last updated: 11/07/19)
 
 
 | Day   | Presenter          | Topic                                          |
@@ -18,7 +18,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 10/18 | Aniello            | Structural complexity in Minimalist parsing    |
 | 10/25 | Jon                | More on subregular n-functions                 |
 | 11/01 | Dakotah            | Converting an SP learner to TSL                |
-| 11/08 | Jeff               | TBD                                            |
+| 11/08 | Jeff               | The twinning property                          |
 | 11/15 | Gary               | TBD                                            |
 | 11/22 |                    | Available                                      |
 | 11/29 | N/A                | No meeting                                     |
