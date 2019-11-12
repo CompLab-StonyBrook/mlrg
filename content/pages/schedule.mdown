@@ -19,7 +19,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 10/25 | Jon                | More on subregular n-functions                 |
 | 11/01 | Dakotah            | Converting an SP learner to TSL                |
 | 11/08 | Jeff               | The twinning property                          |
-| 11/15 | Gary               | TBD                                            |
+| 11/15 | Gary               | Theories of truth: Tarski and truth-value gaps |
 | 11/22 |                    | Available                                      |
 | 11/29 | N/A                | No meeting                                     |
 | 12/06 |                    |                                                |
