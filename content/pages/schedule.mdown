@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 11/21/19)
+(Last updated: 12/01/19)
 
 
 | Day   | Presenter          | Topic                                          |
@@ -22,4 +22,4 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 11/15 | Gary               | Theories of truth: Tarski and truth-value gaps |
 | 11/22 | N/A                | No meeting                                     |
 | 11/29 | N/A                | No meeting                                     |
-| 12/06 |                    |                                                |
+| 12/06 | Al&#xEB;na         | SCiL tutorial practice                         |
