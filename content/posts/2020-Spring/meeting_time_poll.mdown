@@ -1,0 +1,11 @@
+Title: Meeting Time Poll for Spring 2020
+Author: Thomas Graf
+Date: 2020-01-26
+
+Welcome back everyone!
+
+With the start of a new semester, we have to once again agree on a meeting time.
+As usual, we will meet for one hour each Friday at some time around noon.
+Please indicate your availability using the [when2meet poll](http://mlrg.thomasgraf.net/survey).
+
+You do not need to create an account, just login with your name and mark all slots in green that work for you.
