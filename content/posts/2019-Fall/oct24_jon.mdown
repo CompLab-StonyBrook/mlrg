@@ -1,0 +1,7 @@
+Title: Jon on subregular n-languages and -functions.
+Author: Dakotah Lambert
+Date: 2019-10-24
+
+Tomorrow, Jon will be continuing his talk from a few weeks ago on subregular n-functions.  Things have been updated some since the last time.
+The project is still developing, so Jon would appreciate any feedback you may have on the idea.
+Hope to see you all there!

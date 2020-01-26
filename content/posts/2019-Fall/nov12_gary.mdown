@@ -1,0 +1,6 @@
+Title: Gary on Truth
+Author: Dakotah Lambert
+Date: 2019-11-12
+
+This Friday, Gary will be discussing whether Tarski&rsquo;s Theory of Truth has been superceded by subsequent work using truth-value gaps such as those by Robert L. Martin, Bas van Fraassen, and especially Kripke&rsquo;s "Outline of a Theory of Truth" (available in the Google Drive as Kripke1975.pdf).
+Hope to see you all there!
