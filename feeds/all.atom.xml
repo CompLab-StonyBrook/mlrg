@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MLRG</title><link href="https://complab-stonybrook.github.io/mlrg/" rel="alternate"></link><link href="https://complab-stonybrook.github.io/mlrg/feeds/all.atom.xml" rel="self"></link><id>https://complab-stonybrook.github.io/mlrg/</id><updated>2020-01-26T00:00:00-05:00</updated><entry><title>Meeting Time Poll for Spring 2020</title><link href="https://complab-stonybrook.github.io/mlrg/news/2020-spring/meeting-time-poll-for-spring-2020.html" rel="alternate"></link><published>2020-01-26T00:00:00-05:00</published><updated>2020-01-26T00:00:00-05:00</updated><author><name>Thomas Graf</name></author><id>tag:complab-stonybrook.github.io,2020-01-26:/mlrg/news/2020-spring/meeting-time-poll-for-spring-2020.html</id><summary type="html">&lt;p&gt;Welcome back everyone!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MLRG</title><link href="https://complab-stonybrook.github.io/mlrg/" rel="alternate"></link><link href="https://complab-stonybrook.github.io/mlrg/feeds/all.atom.xml" rel="self"></link><id>https://complab-stonybrook.github.io/mlrg/</id><updated>2020-01-30T00:00:00-05:00</updated><entry><title>First Meeting Tomorrow at 2pm</title><link href="https://complab-stonybrook.github.io/mlrg/news/2020-spring/first-meeting-tomorrow-at-2pm.html" rel="alternate"></link><published>2020-01-30T00:00:00-05:00</published><updated>2020-01-30T00:00:00-05:00</updated><author><name>Thomas Graf</name></author><id>tag:complab-stonybrook.github.io,2020-01-30:/mlrg/news/2020-spring/first-meeting-tomorrow-at-2pm.html</id><summary type="html">&lt;p&gt;Scheduling this year's MLRG has turned out to be a lot trickier than usual.
+The time that seems to work for most people is&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Friday, 2pm to 3pm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will have our first organizational meeting tomorrow at this time.
+Based on who shows up, and pending further discussion, the time …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Scheduling this year's MLRG has turned out to be a lot trickier than usual.
+The time that seems to work for most people is&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Friday, 2pm to 3pm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will have our first organizational meeting tomorrow at this time.
+Based on who shows up, and pending further discussion, the time slot for the rest of the semester might still change.&lt;/p&gt;</content></entry><entry><title>Meeting Time Poll for Spring 2020</title><link href="https://complab-stonybrook.github.io/mlrg/news/2020-spring/meeting-time-poll-for-spring-2020.html" rel="alternate"></link><published>2020-01-26T00:00:00-05:00</published><updated>2020-01-26T00:00:00-05:00</updated><author><name>Thomas Graf</name></author><id>tag:complab-stonybrook.github.io,2020-01-26:/mlrg/news/2020-spring/meeting-time-poll-for-spring-2020.html</id><summary type="html">&lt;p&gt;Welcome back everyone!&lt;/p&gt;
 &lt;p&gt;With the start of a new semester, we have to once again agree on a meeting time.
 As usual, we will meet for one hour each Friday at some time around noon.
 Please indicate your availability using the &lt;a href="http://mlrg.thomasgraf.net/survey"&gt;when2meet poll&lt;/a&gt;.&lt;/p&gt;
@@ -29,6 +41,4 @@ Hope to see you all there!&lt;/p&gt;</content></entry><entry><title>Aniello on M
 This is a practice talk, so we might go longer than usual.
 Hope to see you all there, and I'm sure Aniello is looking forward to your feedback.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Today Aniello will be talking about his research on modelling sentence processing with a top-down parser for Minimalist grammars.
 This is a practice talk, so we might go longer than usual.
-Hope to see you all there, and I'm sure Aniello is looking forward to your feedback.&lt;/p&gt;</content></entry><entry><title>No Meeting on Oct 11</title><link href="https://complab-stonybrook.github.io/mlrg/news/2019-fall/no-meeting-on-oct-11.html" rel="alternate"></link><published>2019-10-11T00:00:00-04:00</published><updated>2019-10-11T00:00:00-04:00</updated><author><name>Thomas Graf</name></author><id>tag:complab-stonybrook.github.io,2019-10-11:/mlrg/news/2019-fall/no-meeting-on-oct-11.html</id><summary type="html">&lt;p&gt;We're not meeting this week because of &lt;a href="https://www.stonybrook.edu/commcms/amp2019/"&gt;AMP&lt;/a&gt;. There's plenty of computational talks on the AMP program, and I encourage you all to attend those instead.&lt;/p&gt;
-&lt;p&gt;Next week, Oct 18, Aniello will give a practice talk in the reading group.&lt;/p&gt;</summary><content type="html">&lt;p&gt;We're not meeting this week because of &lt;a href="https://www.stonybrook.edu/commcms/amp2019/"&gt;AMP&lt;/a&gt;. There's plenty of computational talks on the AMP program, and I encourage you all to attend those instead.&lt;/p&gt;
-&lt;p&gt;Next week, Oct 18, Aniello will give a practice talk in the reading group.&lt;/p&gt;</content></entry></feed>
+Hope to see you all there, and I'm sure Aniello is looking forward to your feedback.&lt;/p&gt;</content></entry></feed>
