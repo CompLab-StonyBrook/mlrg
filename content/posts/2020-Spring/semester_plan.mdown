@@ -7,4 +7,4 @@ We will meet every **other** Friday from 2:30 to 3:30.
 This minimizes scheduling conflicts for our regular attendants.
 Please check the [schedule]({filename}../../pages/schedule.mdown) for an overview of the upcoming meetings.
 
-Our first regular meeting will be this Friday, Feb 7, with Scott telling us about an ongoing project of his.
+Our first regular meeting will be this Friday, Feb 7, with Scott telling us about his ongoing work on the interface of phonetics and phonology.
