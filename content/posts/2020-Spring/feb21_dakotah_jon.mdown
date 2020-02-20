@@ -1,0 +1,7 @@
+Title: Dakotah and Jon on GFSAs
+Author: Dakotah Lambert
+Date: 2020-02-20
+
+Tomorrow Dakotah and Jon will be talking about their ongoing work involving generalized finite state automata.
+They'll be discussing a class of string-to-string transducers that corresponds to a certain idea of locality in origin-graph semantics.
+As this is a work in progress, they'd appreciate any feedback you might have!
