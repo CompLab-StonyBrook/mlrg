@@ -1,0 +1,6 @@
+Title: Kalina on the Subregular Complexity of Persistent Features
+Author: Dakotah Lambert
+Date: 2020-03-06
+
+Today Kalina will be talking about how persistent features might affect the complexity of the basic operations in MG syntax.
+Hope to see you all there!
