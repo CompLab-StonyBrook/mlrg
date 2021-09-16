@@ -3,22 +3,20 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2020-02-20)
+(Last updated: 2021-09-16)
 
 
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
-| 02/07 | Scott              | The phonetics-phonology interface              |
-| 02/14 | N/A                | No meeting                                     |
-| 02/21 | Dakotah and Jon    | GFSAs                                          |
-| 02/28 | N/A                | conflict with RCRS meeting                     |
-| 03/06 | Kalina             | Subregular complexity of persistent features   |
-| 03/13 | N/A                | No meeting                                     |
-| 03/20 | N/A                | spring break                                   |
-| 03/27 | N/A                | No meeting                                     |
-| 04/03 | N/A                | [SUNY workshop on interpretable AI](https://interpretable2020.wordpress.com/) |
-| 04/10 | Thomas             | Hayes & Jo on subregular phonology             |
-| 04/17 | N/A                | No meeting                                     |
-| 04/24 |                    | Special topics                                 |
-| 05/01 |                    | tbd                                            |
-| 05/08 | N/A                | conflict with faculty meeting                  |
+| 09/17 | N/A                | Informal hangout                               |
+| 09/24 | N/A                | Conflict with faculty meeting                  |
+| 10/01 | tbd                | tbd                                            |
+| 10/08 | tbd                | tbd                                            |
+| 10/15 | tbd                | tbd                                            |
+| 10/22 | N/A                | Conflict with faculty meeting                  |
+| 10/29 | tbd                | tbd                                            |
+| 11/05 | tbd                | tbd                                            |
+| 11/12 | tbd                | tbd                                            |
+| 11/19 | N/A                | Conflict with faculty meeting                  |
+| 11/26 | N/A                | No meeting                                     |
+| 12/03 | tbd                | tbd                                            |
