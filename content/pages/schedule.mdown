@@ -2,15 +2,15 @@
 Author: Thomas Graf
 Date: 2019-08-22
 
-Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2021-09-16)
+Below is the current schedule for the semester, to be updated as time progresses.
+(Last updated: 2021-09-29)
 
 
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
 | 09/17 | N/A                | Informal hangout                               |
 | 09/24 | N/A                | Conflict with faculty meeting                  |
-| 10/01 | tbd                | tbd                                            |
+| 10/01 | N/A                | No meeting (colloquim)                         |
 | 10/08 | tbd                | tbd                                            |
 | 10/15 | tbd                | tbd                                            |
 | 10/22 | N/A                | Conflict with faculty meeting                  |
