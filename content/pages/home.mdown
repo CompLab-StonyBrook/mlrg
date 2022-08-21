@@ -22,8 +22,8 @@ You can follow us by [subscribing to our news feed](http://complab-stonybrook.gi
 
 ## Current Semester
 
-**Time**: Friday, 1:00&ndash;2:00
-**Location**: Linguistics Seminar Room  
+**Time**: Friday, 1:00&ndash;2:00  
+**Location**: Computational Linguistics Lab (SBS N-250)
 **Topics**: see [Schedule]({filename}/pages/schedule.mdown)  
 **Readings**: [Google drive](https://drive.google.com/a/stonybrook.edu/folderview?id=0B09645QdWLiYVVRjSElwcVkwaTg&usp=sharing) (access restricted)  
 **Student Organizer(s)**: tbd  
