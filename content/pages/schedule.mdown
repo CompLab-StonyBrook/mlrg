@@ -2,21 +2,24 @@
 Author: Thomas Graf
 Date: 2019-08-22
 
-Below is the current schedule for the semester, to be updated as time progresses.
-(Last updated: 2021-10-07)
+Below is the current schedule for the semester, to be updated as time progresses.  
+(Last updated: 2022-08-21)
 
 
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
-| 09/17 | N/A                | Informal hangout                               |
-| 09/24 | N/A                | Conflict with faculty meeting                  |
-| 10/01 | N/A                | No meeting (colloquim)                         |
-| 10/08 | tbd                | Meeting                                        |
-| 10/15 | N/A                | No meeting (colloquim)                         |
-| 10/22 | N/A                | Conflict with faculty meeting                  |
-| 10/29 | N/A                | No meeting (colloquim)                         |
-| 11/05 | Thomas             | Subregular Tree Transductions                  |
-| 11/12 | N/A                | No meeting (colloquim)                         |
-| 11/19 | N/A                | Conflict with faculty meeting                  |
-| 11/26 | N/A                | No meeting                                     |
-| 12/03 | tbd                | tbd                                            |
+| 08/26 | Thomas             | Organizational meeting                         |
+| 09/02 | tbd                | tbd                                            |
+| 09/09 | tbd                | tbd                                            |
+| 09/16 | tbd                | tbd                                            |
+| 09/23 | tbd                | tbd                                            |
+| 09/30 | tbd                | tbd                                            |
+| 10/07 | tbd                | tbd                                            |
+| 10/14 | tbd                | tbd                                            |
+| 10/21 | tbd                | tbd                                            |
+| 10/28 | tbd                | tbd                                            |
+| 11/04 | tbd                | tbd                                            |
+| 11/11 | tbd                | tbd                                            |
+| 11/18 | tbd                | tbd                                            |
+| 11/25 |                    | Thanksgiving break                             |
+| 12/02 | tbd                | tbd                                            |
