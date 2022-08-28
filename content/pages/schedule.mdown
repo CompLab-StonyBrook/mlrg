@@ -9,17 +9,17 @@ Below is the current schedule for the semester, to be updated as time progresses
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
 | 08/26 | Thomas             | Organizational meeting                         |
-| 09/02 | tbd                | tbd                                            |
-| 09/09 | tbd                | tbd                                            |
-| 09/16 | tbd                | tbd                                            |
-| 09/23 | tbd                | tbd                                            |
-| 09/30 | tbd                | tbd                                            |
-| 10/07 | tbd                | tbd                                            |
+| 09/02 | Thomas             | Subregular complexity of linearization         |
+| 09/09 | Kenneth            | TSL syntax                                     |
+| 09/16 | Jeff               | tbd                                            |
+| 09/23 | no meeting         | Model theory workshop                          |
+| 09/30 | Gary               | tbd                                            |
+| 10/07 | Jordan             | tbd                                            |
 | 10/14 | tbd                | tbd                                            |
-| 10/21 | tbd                | tbd                                            |
-| 10/28 | tbd                | tbd                                            |
+| 10/21 | Salam              | tbd                                            |
+| 10/28 | Scott              | Modal Logic & the phon(etics|ology) interface  |
 | 11/04 | tbd                | tbd                                            |
 | 11/11 | tbd                | tbd                                            |
 | 11/18 | tbd                | tbd                                            |
-| 11/25 |                    | Thanksgiving break                             |
+| 11/25 | no meeting         | Thanksgiving break                             |
 | 12/02 | tbd                | tbd                                            |
