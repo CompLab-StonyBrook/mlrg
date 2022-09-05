@@ -9,6 +9,7 @@ System Requirements
 -------------------
 
 If you're affiliated with Stony Brook University, you can download a [virtual machine image](https://drive.google.com/a/stonybrook.edu/file/d/0B09645QdWLiYUldGSGl5Tmx0Vm8/view?usp=sharing) that comes with all necessary packages pre-installed.
+This image hasn't been updated in a while, but it should be new enough to compile the website just fine.
 
 1.  Recent version of Python3.
 
@@ -58,7 +59,7 @@ A better solution is to create a *virtual environment* in your home directory th
 
 ~~~~~
 mkdir ~/.mlrg_env
-virtualenv ~/.mlrg_env
+python -m venv ~/.mlrg_env
 ~/.mlrg_env/bin/pip install pelican ghp-import
 ~~~~~
 
