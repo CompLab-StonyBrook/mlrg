@@ -1,0 +1,6 @@
+Title: Thomas on the subregular complexity of linearization
+Author: Thomas Graf
+Date: 2022-09-02
+
+We're kicking off the semester for real this time with a presentation by yours truly on the subregular complexity of linearization.
+There'll be dependency trees, phrase structure trees, ISL tree transductions with TSL tests, and a bit of corpus work, all leading to a novel perspective on linearization that allows us to derive the Ban Against Improper Movement.
