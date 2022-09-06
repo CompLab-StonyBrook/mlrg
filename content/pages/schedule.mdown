@@ -17,7 +17,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 10/07 | Jordan             | tbd                                            |
 | 10/14 | tbd                | tbd                                            |
 | 10/21 | Salam              | tbd                                            |
-| 10/28 | Scott              | Modal Logic & the phon(etics|ology) interface  |
+| 10/28 | Scott              | Modal Logic & the phon(etics/ology) interface  |
 | 11/04 | tbd                | tbd                                            |
 | 11/11 | tbd                | tbd                                            |
 | 11/18 | tbd                | tbd                                            |
