@@ -1,0 +1,13 @@
+Title: Kenneth on TSL (Tier-based Strictly Local) syntax
+Author: Zhengxiang (Jack) Wang
+Date: 2022-09-06
+
+This Friday (Sep 9), Kenneth will be talking about TSL syntax. Also a reminder that tomorrow Kenneth will present a **related but different** talk titled "A TSL Analysis of Japanese Case" in the first Brown Bag meeting from 1:00-2:30 at Linguistics Seminar Room (SBS S-207). Below you can find the abstract for tomorrow's talk.
+
+Abstract:
+
+Traditionally, the computational complexity of syntax is thought to be much greater than that of phonology and morphology. But the complexity of the tree representations usually posited for syntax actually appears to be on par with string representations in phonology and morphology. In particular, recent work has shown that a great variety of syntactic phenomena fall under the computational class tier-based strictly local, or TSL (Graf 2018; Graf 2022). Vu et al. (2019) argue that case dependencies are yet another member of this class, but their analysis focuses mainly on English, which is famously case-poor. I present a TSL analysis of Japanese, which features a much wider range of case patterns, providing additional support to the claim that case dependencies are TSL.
+
+
+
+
