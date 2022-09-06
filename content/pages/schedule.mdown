@@ -1,4 +1,4 @@
-﻿Title: Schedule
+Title: Schedule
 Author: Thomas Graf
 Date: 2019-08-22
 
@@ -10,9 +10,9 @@ Below is the current schedule for the semester, to be updated as time progresses
 |-------|--------------------|------------------------------------------------|
 | 08/26 | Thomas             | Organizational meeting                         |
 | 09/02 | Thomas             | Subregular complexity of linearization         |
-| 09/09 | Kenneth            | TSL syntax                                     |
+| 09/09 | Kenneth            | TSL (Tier-based Strictly Local) syntax                                     |
 | 09/16 | Jeff               | tbd                                            |
-| 09/23 | no meeting         | Model theory workshop                          |
+| 09/23 | no meeting         | [Model theory workshop](https://www.jeffreyheinz.net/events/WMTRPprogram.html)                          |
 | 09/30 | Gary               | tbd                                            |
 | 10/07 | Jordan             | tbd                                            |
 | 10/14 | tbd                | tbd                                            |

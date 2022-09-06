@@ -1,4 +1,4 @@
-﻿Title: SBU MathLing Reading Group
+Title: SBU MathLing Reading Group
 Author: Thomas Graf
 URL:
 Template: home
@@ -26,5 +26,5 @@ You can follow us by [subscribing to our news feed](http://complab-stonybrook.gi
 **Location**: Computational Linguistics Lab (SBS N-250)  
 **Topics**: see [Schedule]({filename}/pages/schedule.mdown)  
 **Readings**: [Google drive](https://drive.google.com/drive/folders/0B09645QdWLiYVVRjSElwcVkwaTg?resourcekey=0-BA5sxi9pxqh_LL4oXtF8Xg&usp=sharing) (access restricted)  
-**Student Organizer(s)**: tbd  
+**Student Organizer(s)**: [Zhengxiang (Jack) Wang](https://jaaack-wang.eu.org)  
 **Faculty Organizer**: [Thomas Graf](http://thomasgraf.net)
