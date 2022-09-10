@@ -1,0 +1,13 @@
+Title: Jeff on phonological constraints next Friday (Sep 16)
+Author: Zhengxiang (Jack) Wang
+Date: 2022-09-10
+
+[Jeff](https://www.jeffreyheinz.net) will be giving a talk titled "_What constraints should phonology allow?_" next Friday (Sep 16) at SBS N250 from 13:00 to 14:00. Below is an intro to this talk:
+
+```
+'''
+I will informally introduce model theoretic representations, first order (FO) logic and monadic second order (MSO) logic in the context of defining phonological constraints. We consider four logical languages for defining constraints: FO(successor), FO(precedence), MSO(successor), MSO(precedence). I will argue on the basis of phonological typology that FO(precedence) is the most sensible of these four options.
+'''
+```
+
+**Also a friendly reminder** that Jeff will also present at Brown Bag next Wednesday (Sep 14) 13:00 - 14: 30 at Linguistics Seminar Room (SBS S-207). The title is "_[BUFIA](https://github.com/heinz-jeffrey/bufia): Phonotactic Learning with Non-statistical Abductive Inference_".
