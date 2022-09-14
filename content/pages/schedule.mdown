@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2022-09-13)
+(Last updated: 2022-09-14)
 
 
 | Day   | Presenter          | Topic                                          |
@@ -16,7 +16,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 09/30 | Gary               | tbd                                            |
 | 10/07 | Jordan             | tbd                                            |
 | 10/14 | tbd                | tbd                                            |
-| 10/21 | Salam              | tbd                                            |
+| 10/21 | no meeting              | Alëna Aksënova talks about working at Google at IACS                                            |
 | 10/28 | Scott              | Modal Logic & the phon(etics/ology) interface  |
 | 11/04 | tbd                | tbd                                            |
 | 11/11 | tbd                | tbd                                            |
