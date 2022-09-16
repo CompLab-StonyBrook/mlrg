@@ -1,0 +1,7 @@
+Title: No meeting next Friday (Sep 23) 
+Author: Zhengxiang (Jack) Wang
+Date: 2022-09-16
+
+Due to the [Workshop on Model Theoretic Representations in Phonology](https://www.jeffreyheinz.net/events/WMTRPprogram.html), we will not be meeting <s>recreationally</s> next Friday (Sep 23). 
+
+The workshop is organized by Jeff and Scott, happening from Sep 22 to 24 at IACS seminar room. The purpose of this workshop is to bring together researchers studying phonological representations from a computational perspective and the role they play in describing, understanding, and the learning of, phonological processes. Details and schedules can be seen in the [website](https://www.jeffreyheinz.net/events/WMTRPprogram.html). 
