@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2022-09-14)
+(Last updated: 2022-09-24)
 
 
 | Day   | Presenter          | Topic                                          |
@@ -13,7 +13,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 09/09 | Kenneth            | TSL (Tier-based Strictly Local) syntax                                     |
 | 09/16 | Jeff               | What constraints should phonology allow?                                            |
 | 09/23 | no meeting         | [Model theory workshop](https://www.jeffreyheinz.net/events/WMTRPprogram.html)                          |
-| 09/30 | Gary               | tbd                                            |
+| 09/30 | [Gary](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) et al.              | Gödel vs. Turing, model theory, [FOL](https://en.wikipedia.org/wiki/First-order_logic) vs. [MSO](https://en.wikipedia.org/wiki/Monadic_second-order_logic), and more                                              |
 | 10/07 | Jordan             | tbd                                            |
 | 10/14 | tbd                | tbd                                            |
 | 10/21 | no meeting              | Alëna Aksënova talks about working at Google at IACS                                            |
