@@ -1,8 +1,8 @@
-Title: Prof. Mar and students from Philosophy on Model Theory (Sep 30) 
+Title: Prof. Mar et al. from Philosophy on Gödel/Turing & Model Theory (Sep 30) 
 Author: Zhengxiang (Jack) Wang
 Date: 2022-09-24
 
-Next Friday (Sep 30), [Prof. Gary Mar](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) and his students (Michael Barr, Gino Elia, and Madhi Malek) from Department of Philosophy will pick up [the thread initiated by Jeff](https://complab-stonybrook.github.io/mlrg/news/2022-fall/jeff-on-phonological-constraints-next-friday-sep-16.html). They will discuss about the logical limitations of FOL (First Order Logic) and MSO (Monadic Second Order) logic to be solved using model theory. Their talk will also feature a presentation Prof. Mar gave to the American Philosophical Association, now titled "Goedel vs. Turing? Platonism, Computationalism and the Philosophy of Mathematics". 
+Next Friday (Sep 30), [Prof. Gary Mar](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) and his students (Michael Barr, Gino Elia, and Madhi Malek) from Department of Philosophy will pick up [the thread initiated by Jeff](https://complab-stonybrook.github.io/mlrg/news/2022-fall/jeff-on-phonological-constraints-next-friday-sep-16.html). They will discuss about the logical limitations of FOL (First Order Logic) and MSO (Monadic Second Order) logic to be solved using model theory. Their talk will also feature a presentation Prof. Mar gave to the American Philosophical Association, now titled "Gödel vs. Turing? Platonism, Computationalism and the Philosophy of Mathematics". 
 
 Prof. Mar is the last student to have a Ph.D. directed by [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) and also the founding director of the Philosophy Department Logic Lab at SBU, among other honorary achievements. 
 
