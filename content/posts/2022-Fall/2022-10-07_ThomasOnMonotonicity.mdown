@@ -1,0 +1,7 @@
+Title: Thomas on Monotonicity in Syntax next Friday (Oct 14) 
+Author: Zhengxiang (Jack) Wang
+Date: 2022-10-7
+
+This time Thomas will present recent work of his on monotonicity in syntax. He claims that monotonicity provides a unified view on the Ban Against Improper Movement, the Williams Cycle, and freezing effects. We'll see if he can convince us.
+
+If you have time, you can try to read [the related paper](https://par.nsf.gov/servlets/purl/10216899) before the meeting to get a preview. 
