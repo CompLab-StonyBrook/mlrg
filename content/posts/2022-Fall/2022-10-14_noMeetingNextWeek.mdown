@@ -1,0 +1,9 @@
+Title: No meeting next Friday (Oct 21) 
+Author: Zhengxiang (Jack) Wang
+Date: 2022-10-14
+
+There will be no meeting next Friday (Oct 21). You are encouraged to attend the talk titled "<i>[
+Building better speech recognition for everyone](https://calendar.stonybrook.edu/site/iacs/event/iacs-alum-speaker-alna-akesnova-google/)</i>" given by alumnus Alëna Aksënova. Alëna is a linguist at Google, where she works on topics related to speech processing, automatic speech recognition, and model evaluation pipelines. The talk will take place at <b>1:00PM next Friday at IACS seminar room</b>.  
+
+More information about the talk and Alëna can be found [here](https://calendar.stonybrook.edu/site/iacs/event/iacs-alum-speaker-alna-akesnova-google/).
+

@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2022-10-07)
+(Last updated: 2022-10-14)
 
 
 | Day   | Presenter          | Topic                                          |
@@ -17,7 +17,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 10/07 | Jordan             | Cognitive Science and Math/Theoretical/Psycho Linguistics                                            |
 | 10/14 | Thomas                | Monotonicity in syntax                                            |
 | 10/21 | no meeting              | [Alumnus Alëna Aksënova on speech recognition at IACS](https://calendar.stonybrook.edu/site/iacs/event/iacs-alum-speaker-alna-akesnova-google/)                                            |
-| 10/28 | tbd              | Probably no meeting due to the lab renovations  |
+| 10/28 | no meeting              | No meeting due to the lab renovations  |
 | 11/04 | Scott                | Modal Logic & the phon(etics/ology) interface                                            |
 | 11/11 | tbd                | tbd                                            |
 | 11/18 | tbd                | tbd                                            |
