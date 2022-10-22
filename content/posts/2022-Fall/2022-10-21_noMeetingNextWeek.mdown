@@ -1,0 +1,7 @@
+Title: No meeting next Friday (Oct 28) 
+Author: Zhengxiang (Jack) Wang
+Date: 2022-10-21
+
+Due to the lab renovations, we will not be meeting next Friday (Oct 28). Our weekly recreational meeting will resume on Nov 4 and Scott will talk about "Modal Logic & the phon(etics/ology) interface". Stay tuned!
+
+Currently, we do not have any speakers for Nov 11 and 18, as can be seen in [Schedule](https://complab-stonybrook.github.io/mlrg/schedule.html). If you have anything to present, feel free to shoot an email to Jack ([zhengxiang.wang@stonybrook.edu](mailto:zhengxiang.wang@stonybrook.edu)). 
