@@ -22,4 +22,4 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 11/11 | no meeting                | N/A                                            |
 | 11/18 | no meeting                | N/A                                            |
 | 11/25 | no meeting         | Thanksgiving break                             |
-| 12/02 | Jeff             | tbd                                            |
+| 12/02 | Jeff             | Definite and reverse definite languages |

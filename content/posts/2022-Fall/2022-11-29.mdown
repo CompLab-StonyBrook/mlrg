@@ -1,5 +1,7 @@
-Title: Jeff presents this Friday (Dec 2) 
+Title: Jeff on (reverse) definite languages this Friday (Dec 2) 
 Author: Zhengxiang (Jack) Wang
-Date: 2022-11-29
+Date: 2022-11-30
 
-Jeff will give a presentation this Friday (Dec 2), which will be our last MLRG meeting for this semester. Stay tuned!
+Jeff will give a presentation this Friday (Dec 2) about definite and reverse definite languages and generalizations thereof. This will be our last MLRG meeting for this semester. Hope to see you all there!
+
+**Note**: The meeting will again take place at the seminar room (SBS S-207), instead of the compling lab. 
