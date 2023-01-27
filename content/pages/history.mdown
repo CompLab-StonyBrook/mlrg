@@ -7,6 +7,7 @@ So far, the following topics have been covered:
 
 Semester     | Topic
 ------------ | ------------
+2022 Fall    | Less Recreational
 2021 Fall    | Recreation
 2021 Spring  | Covidalooza, Part 3
 2020 Fall    | Covidalooza, Part 2

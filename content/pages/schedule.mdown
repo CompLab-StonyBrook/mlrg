@@ -3,23 +3,23 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2022-11-29)
+(Last updated: 2023-01-27)
 
 
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
-| 08/26 | Thomas             | Organizational meeting                         |
-| 09/02 | Thomas             | Subregular complexity of linearization         |
-| 09/09 | Kenneth            | TSL (Tier-based Strictly Local) syntax                                     |
-| 09/16 | Jeff               | What constraints should phonology allow?                                            |
-| 09/23 | no meeting         | [Model theory workshop](https://www.jeffreyheinz.net/events/WMTRPprogram.html)                          |
-| 09/30 | [Gary](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) et al.              | Gödel vs. Turing, model theory, [FOL](https://en.wikipedia.org/wiki/First-order_logic) vs. [MSO](https://en.wikipedia.org/wiki/Monadic_second-order_logic), and more                                              |
-| 10/07 | Jordan             | Cognitive Science and Math/Theoretical/Psycho Linguistics                                            |
-| 10/14 | Thomas                | Monotonicity in syntax                                            |
-| 10/21 | no meeting              | [Alumnus Alëna Aksënova on speech recognition at IACS](https://calendar.stonybrook.edu/site/iacs/event/iacs-alum-speaker-alna-akesnova-google/)                                            |
-| 10/28 | no meeting              | No meeting due to the lab renovations  |
-| 11/04 | Scott                | Modal Logic & the phon(etics/ology) interface                                            |
-| 11/11 | no meeting                | N/A                                            |
-| 11/18 | no meeting                | N/A                                            |
-| 11/25 | no meeting         | Thanksgiving break                             |
-| 12/02 | Jeff             | Definite and reverse definite languages |
+| 01/27 | [Thomas](https://thomasgraf.net) | Organizational meeting |
+| 02/03 | [Jeff](https://www.jeffreyheinz.net) | [Dakotah](https://vvulpes0.github.io)'s [plebby](https://hackage.haskell.org/package/language-toolkit-1.0.0.0) |
+| 02/10 | [Thomas](https://thomasgraf.net) | Graphs                   |
+| 02/17 | [Kenneth](http://www.kennethhanson.net) | String-based syntax                          |
+| 02/24 | [Jack](https://jaaack-wang.eu.org) | RNN seq2seq learning   |
+| 03/03 | [Jeff](https://www.jeffreyheinz.net) | Noisy learning                                |
+| 03/10 | [Jordan](https://jkodner05.github.io) | TBA                                         |
+| 03/17 | no meeting | Spring Break                     |
+| 03/24 | [Magda](https://m-markowska.github.io) | Feature-based learning                      |
+| 03/31 | [Gary](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) | Temporal logic |
+| 04/07 | [Scott](https://snelson89.bitbucket.io) | Rule interactions                         |
+| 04/14 | [Kenneth](http://www.kennethhanson.net) | TSL (Tier-based Strictly Local) islands |
+| 04/21 | [Thomas](https://thomasgraf.net) | Islands                                     |
+| 04/28 | [Eric](https://eric-sclafani.github.io) | Authorship attribution      |
+| 05/05 | TBA        | TBA |
