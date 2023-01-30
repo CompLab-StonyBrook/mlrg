@@ -1,0 +1,11 @@
+Title: Thomas on grafts as long distance selection
+Author: Zhengxiang (Jack) Wang
+Date: 2023-01-29
+
+
+
+Thomas will take a subregular look at syntactic grafts, a mechanism first proposed by Henk van Riemsdijk to explain constructions like "John went to I believe it was Chicago". Grafts have not seen wide adoption by syntacticians because they are considered too powerful. But Thomas will argue that they are just an intuitive way of thinking about long-distance selection, which turns out to have the same complexity as movement.
+
+
+
+**Please note that**: (1) we will meet at <ins>**1:30 pm**</ins> on Feb 3; (2) Jeff will present on Feb 10 instead. 

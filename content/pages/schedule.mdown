@@ -9,8 +9,8 @@ Below is the current schedule for the semester, to be updated as time progresses
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
 | 01/27 | [Thomas](https://thomasgraf.net) | Organizational meeting |
-| 02/03 | [Jeff](https://www.jeffreyheinz.net) | [Dakotah](https://vvulpes0.github.io)'s [plebby](https://hackage.haskell.org/package/language-toolkit-1.0.0.0) |
-| 02/10 | [Thomas](https://thomasgraf.net) | Graphs                   |
+| 02/03 | [Thomas](https://thomasgraf.net) | Grafts as long distance selection |
+| 02/10 | [Jeff](https://www.jeffreyheinz.net) | [Dakotah](https://vvulpes0.github.io)'s [plebby](https://hackage.haskell.org/package/language-toolkit-1.0.0.0) |
 | 02/17 | [Kenneth](http://www.kennethhanson.net) | String-based syntax                          |
 | 02/24 | [Jack](https://jaaack-wang.eu.org) | RNN seq2seq learning   |
 | 03/03 | [Jeff](https://www.jeffreyheinz.net) | Noisy learning                                |
