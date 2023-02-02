@@ -11,10 +11,10 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 01/27 | [Thomas](https://thomasgraf.net) | Organizational meeting |
 | 02/03 | [Thomas](https://thomasgraf.net) | Grafts as long distance selection |
 | 02/10 | [Jeff](https://www.jeffreyheinz.net) | [Dakotah](https://vvulpes0.github.io)'s [plebby](https://hackage.haskell.org/package/language-toolkit-1.0.0.0) |
-| 02/17 | [Kenneth](http://www.kennethhanson.net) | String-based syntax                          |
+| 02/17 | no meeting | Departmental virtual open house |
 | 02/24 | [Jack](https://jaaack-wang.eu.org) | RNN seq2seq learning   |
 | 03/03 | [Jeff](https://www.jeffreyheinz.net) | Noisy learning                                |
-| 03/10 | [Jordan](https://jkodner05.github.io) | TBA                                         |
+| 03/10 | [Kenneth](http://www.kennethhanson.net) | String-based syntax                      |
 | 03/17 | no meeting | Spring Break                     |
 | 03/24 | [Magda](https://m-markowska.github.io) | Feature-based learning                      |
 | 03/31 | [Gary](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) | Temporal logic |
@@ -22,4 +22,4 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 04/14 | [Kenneth](http://www.kennethhanson.net) | TSL (Tier-based Strictly Local) islands |
 | 04/21 | [Thomas](https://thomasgraf.net) | Islands                                     |
 | 04/28 | [Eric](https://eric-sclafani.github.io) | Authorship attribution      |
-| 05/05 | TBA        | TBA |
+| 05/05 | [Jordan](https://jkodner05.github.io) | TBA |
