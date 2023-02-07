@@ -1,0 +1,7 @@
+Title: Jeff on Piecewise Local Expressions at 1:30 pm (Feb 10)
+Author: Zhengxiang (Jack) Wang
+Date: 2023-02-07
+
+
+
+Piecewise Local Expressions (Lambert 2022) are a kind of regular expression language for describing certain kinds of formal languages easily using the notion of substring and subsequence containment. These will be reviewed in the beginning. Then we will spend time thinking how to develop a similar expression language (i.e. one based on containment) to facilitate the construction of tree languages, with an eye towards expressing linguistically relevant generalizations.
