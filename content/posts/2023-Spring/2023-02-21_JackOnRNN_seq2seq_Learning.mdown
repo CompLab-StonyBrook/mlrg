@@ -1,0 +1,11 @@
+Title: Jack on RNN seq2seq models learning alignments at 1:30 pm (Feb 24)
+Author: Zhengxiang (Jack) Wang
+Date: 2023-02-21
+
+
+
+Sequence-to-sequence (seq2seq) models are a class of neural network models that learn the mapping between given input and target sequences. These models take an encoder-decoder structure where the encoder reads the inputs and passes the encoded information to the decoder, and the decoder decodes the encoded information and writes outputs. 
+
+Jack's focus is on Recurrent Neural Networks (RNNs) seq2seq models, whose encoder and decoder are both RNNs, in learning four transduction tasks that require alignments learning. These tasks are: identity, reversal, total reduplication, and input specified reduplication. Jack will talk about the learning capabilities of RNN seq2seq models, and the complexity of learning them that is different from the traditional FST*-theoretic characterizations.
+
+*FST: Finite State Transducer
