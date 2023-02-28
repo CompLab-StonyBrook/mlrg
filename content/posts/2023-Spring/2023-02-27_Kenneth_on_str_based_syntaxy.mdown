@@ -1,0 +1,15 @@
+Title: Kenneth on String-based Syntax at 1:30 pm (Mar 3)
+Author: Zhengxiang (Jack) Wang
+Date: 2023-02-27
+
+
+
+We often say that syntactic dependencies are in the computational classes SL and TSL over trees (Graf 2018 et seq). But what does that mean? Actually, there several ways to generalize the string classes to trees. One of these involves command strings (c-strings), which encode the c-commanders of some node in a specific derivational order. In this case the tree languages are constrained by SL and TSL grammars over the c-strings they contain.
+
+But which c-strings should we consider? All of them? No, we should consider only those which trace the *spine* of a tree, or of some subtree. Graf and De Santo (2019) show how a sensing tree automaton, a kind of top-down automaton with a look-ahead window of 1, has about the right power for syntax. Furthermore, it is possible to algorithmically construct such an automaton which recognizes only trees that contain licit c-strings, and only consider the ones that matter.
+
+This means that we can effectively decompose a tree language into string languages, which can be visualized easily with string finite state automata, and compared with analogous patterns in phonology. I illustrate this with discussing the following:
+
+\- SL: phonotactics / selection, functional hierarchy
+
+\- TSL: vowel harmony / agreement, case

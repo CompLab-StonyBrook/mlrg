@@ -13,8 +13,8 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 02/10 | [Jeff](https://www.jeffreyheinz.net) | [Dakotah](https://vvulpes0.github.io)'s [plebby](https://hackage.haskell.org/package/language-toolkit-1.0.0.0) |
 | 02/17 | no meeting | Departmental virtual open house |
 | 02/24 | [Jack](https://jaaack-wang.eu.org) | RNN seq2seq learning   |
-| 03/03 | [Jeff](https://www.jeffreyheinz.net) | Noisy learning                                |
-| 03/10 | [Kenneth](http://www.kennethhanson.net) | String-based syntax                      |
+| 03/03 | [Kenneth](http://www.kennethhanson.net) | String-based syntax            |
+| 03/10 | [Jeff](https://www.jeffreyheinz.net) | Noisy learning       |
 | 03/17 | no meeting | Spring Break                     |
 | 03/24 | [Magda](https://m-markowska.github.io) | Feature-based learning                      |
 | 03/31 | [Gary](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) | Temporal logic |
