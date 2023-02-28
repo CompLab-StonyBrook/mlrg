@@ -2,9 +2,12 @@
 <html lang="">	
 <head>
 	<meta charset="utf-8"/>
-	<title>Schedule- MLRG</title>	
+	<title>Kenneth on String-based Syntax at 1:30 pm (Mar 3) - MLRG</title>	
 	<meta name="author" content="Thomas Graf">
 	
+
+	<meta name="description" content="We often say that syntactic dependencies are in the computational classes SL and TSL over trees (Graf 2018 et seq). But what does that mean? Actually, there several ways to generalize the string classes to trees. One of these involves command strings (c-strings), which encode the c-commanders of some node …">
+
 
 	<link rel="top" href="#" /><link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro' rel='stylesheet' type='text/css'></link>
 	<link rel="stylesheet" href="https://complab-stonybrook.github.io/mlrg/theme/css/main.css" type="text/css" />
@@ -31,96 +34,30 @@
 	  <div class="wrapper">
 
 		  <div role="main" class="content">
+	<article class="full">
+			
+		<h1>Kenneth on String-based Syntax at 1:30 pm (Mar 3)</h1>
+		
+<div class="metadata">
+  <time datetime="2023-02-27T00:00:00-05:00" pubdate>Mon 27 February 2023</time>
+    <address class="vcard author">
+      by <a class="url fn" href="https://complab-stonybrook.github.io/mlrg/author/zhengxiang-jack-wang.html">Zhengxiang (Jack) Wang</a>
+    </address>
+  in <a href="https://complab-stonybrook.github.io/mlrg/semester/2023-spring.html">2023-Spring</a>
+</div>		
+		<p>We often say that syntactic dependencies are in the computational classes SL and TSL over trees (Graf 2018 et seq). But what does that mean? Actually, there several ways to generalize the string classes to trees. One of these involves command strings (c-strings), which encode the c-commanders of some node in a specific derivational order. In this case the tree languages are constrained by SL and TSL grammars over the c-strings they contain.</p>
+<p>But which c-strings should we consider? All of them? No, we should consider only those which trace the <em>spine</em> of a tree, or of some subtree. Graf and De Santo (2019) show how a sensing tree automaton, a kind of top-down automaton with a look-ahead window of 1, has about the right power for syntax. Furthermore, it is possible to algorithmically construct such an automaton which recognizes only trees that contain licit c-strings, and only consider the ones that matter.</p>
+<p>This means that we can effectively decompose a tree language into string languages, which can be visualized easily with string finite state automata, and compared with analogous patterns in phonology. I illustrate this with discussing the following:</p>
+<p>- SL: phonotactics / selection, functional hierarchy</p>
+<p>- TSL: vowel harmony / agreement, case</p>	
 
-<h1>Schedule</h1>
-<p>Below is the current schedule for the semester, to be updated as time progresses.<br>
-(Last updated: 2023-02-07)</p>
-<table>
-<thead>
-<tr>
-<th>Day</th>
-<th>Presenter</th>
-<th>Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>01/27</td>
-<td><a href="https://thomasgraf.net">Thomas</a></td>
-<td>Organizational meeting</td>
-</tr>
-<tr>
-<td>02/03</td>
-<td><a href="https://thomasgraf.net">Thomas</a></td>
-<td><s>Grafts as long distance selection</s> [Cancelled]</td>
-</tr>
-<tr>
-<td>02/10</td>
-<td><a href="https://www.jeffreyheinz.net">Jeff</a></td>
-<td><a href="https://vvulpes0.github.io">Dakotah</a>'s <a href="https://hackage.haskell.org/package/language-toolkit-1.0.0.0">plebby</a></td>
-</tr>
-<tr>
-<td>02/17</td>
-<td>no meeting</td>
-<td>Departmental virtual open house</td>
-</tr>
-<tr>
-<td>02/24</td>
-<td><a href="https://jaaack-wang.eu.org">Jack</a></td>
-<td>RNN seq2seq learning</td>
-</tr>
-<tr>
-<td>03/03</td>
-<td><a href="http://www.kennethhanson.net">Kenneth</a></td>
-<td>String-based syntax</td>
-</tr>
-<tr>
-<td>03/10</td>
-<td><a href="https://www.jeffreyheinz.net">Jeff</a></td>
-<td>Noisy learning</td>
-</tr>
-<tr>
-<td>03/17</td>
-<td>no meeting</td>
-<td>Spring Break</td>
-</tr>
-<tr>
-<td>03/24</td>
-<td><a href="https://m-markowska.github.io">Magda</a></td>
-<td>Feature-based learning</td>
-</tr>
-<tr>
-<td>03/31</td>
-<td><a href="https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php">Gary</a></td>
-<td>Temporal logic</td>
-</tr>
-<tr>
-<td>04/07</td>
-<td><a href="https://snelson89.bitbucket.io">Scott</a></td>
-<td>Rule interactions</td>
-</tr>
-<tr>
-<td>04/14</td>
-<td><a href="http://www.kennethhanson.net">Kenneth</a></td>
-<td>TSL (Tier-based Strictly Local) islands</td>
-</tr>
-<tr>
-<td>04/21</td>
-<td><a href="https://thomasgraf.net">Thomas</a></td>
-<td>Islands</td>
-</tr>
-<tr>
-<td>04/28</td>
-<td><a href="https://eric-sclafani.github.io">Eric</a></td>
-<td>Authorship attribution</td>
-</tr>
-<tr>
-<td>05/05</td>
-<td><a href="https://jkodner05.github.io">Jordan</a></td>
-<td>TBA</td>
-</tr>
-</tbody>
-</table>		
+	</article>
+
+    <p>
+	<a href="https://twitter.com/share" class="twitter-share-button" data-via="" data-lang="en" data-size="large" data-related="">Tweet</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</p>
+
 
 		  </div>	
 		  
@@ -140,7 +77,7 @@
 	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2020-spring.html">2020-Spring</a></li>
 	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2021-fall.html">2021-Fall</a></li>
 	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2022-fall.html">2022-Fall</a></li>
-	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2023-spring.html">2023-Spring</a></li>
+	              <li class="active"><a href="https://complab-stonybrook.github.io/mlrg/semester/2023-spring.html">2023-Spring</a></li>
 	          </ul>
 	        </nav>
 
