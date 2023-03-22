@@ -1,0 +1,11 @@
+Title: Magda on learning sequential functions with features at 1:30 pm (Mar 24)
+Author: Zhengxiang (Jack) Wang
+Date: 2023-03-22
+
+
+
+**Topic**: Learning sequential functions with sub-symbolic properties
+
+
+
+**Details**: It has been shown that morphophonological processes represented with subsequential functions can be learnt from finite samples of data ([Jardine et al. 2014](http://proceedings.mlr.press/v34/jardine14a.pdf)). We show that the size of such a sample can be significantly reduced if we change the representation of the data from strings to features.
