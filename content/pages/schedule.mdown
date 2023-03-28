@@ -17,7 +17,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 03/10 | [Jeff](https://www.jeffreyheinz.net) | Noisy learning       |
 | 03/17 | no meeting | Spring Break                     |
 | 03/24 | [Magda](https://m-markowska.github.io) | Feature-based learning                      |
-| 03/31 | [Gary](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) | Temporal logic |
+| 03/31 | [Gary](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) | Brief history of logic of time |
 | 04/07 | [Scott](https://snelson89.bitbucket.io) | Rule interactions                         |
 | 04/14 | [Kenneth](http://www.kennethhanson.net) | TSL (Tier-based Strictly Local) islands |
 | 04/21 | [Thomas](https://thomasgraf.net) | Islands                                     |

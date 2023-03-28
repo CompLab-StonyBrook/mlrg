@@ -1,0 +1,41 @@
+Title: Gary gives a brief history of the logic of time at 1:30 pm (Mar 31)
+Author: Zhengxiang (Jack) Wang
+Date: 2023-03-22
+
+
+
+Gary will give a talk titled "A Brief History of the Logic of Time: Some Paradoxes from A to Z" this Friday. His talk will begin with a puzzle inspired by Erich Friedman [1998]. You can click [here](https://docs.google.com/document/d/1hcbSBlT62_9hpwdwRb9_YfqYwHDdZmUr/edit?usp=share_link&ouid=109948658946118555134&rtpof=true&sd=true) to read the puzzle with a picture of triplets or check the [Puzzle Palace](https://erich-friedman.github.io/puzzle/) of Erich Friedman for more examples.
+
+
+
+**Puzzle**: Tweedledum, Tweedledee, and Tweedledoo are identical triplets.
+
+Each either tells the truth all day long or tells lies all day long.  
+
+ 
+
+Tweedledum lies only on Mondays and Tuesdays. 
+
+Tweedledee lies only on Wednesdays and Thursdays.
+
+Tweedledoo lies only Fridays, and Saturdays. 
+
+On Sundays everyone tells the truth. 
+
+ 
+
+Alice meets the three of them and calls them A, B, and C since she can’t tell them apart. 
+
+This is what Alice heard: 
+
+ 
+
+A says, “I will lie tomorrow.” 
+
+B says, “I lied yesterday, and I will lie tomorrow.”
+
+C says, “Today isn’t Tuesday.”
+
+ 
+
+What day of the week did the conversation take place? Who are A, B, and C?
