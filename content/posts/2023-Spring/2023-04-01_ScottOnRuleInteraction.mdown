@@ -1,0 +1,7 @@
+Title: Scott on rule interactions in phonology at 1:30 pm (Apr 7)
+Author: Zhengxiang (Jack) Wang
+Date: 2023-04-04
+
+
+
+Interacting phonological processes are interesting for phonological theory because they often lead to opaque surface forms: forms where a process applied in an environment where it shouldn't have (overapplication) and forms where a process does not apply even though it looks like it should (underapplication). In my presentation I'll review different ways people have talked about process interaction (rules, OT, Two-Level Phonology, automata) and then discuss some new ideas using logical transductions. Specifically, I discuss some possibilities for non-compositional process interaction.
