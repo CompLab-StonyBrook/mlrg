@@ -1,0 +1,11 @@
+Title: Kenneth on island effects via pTSL for trees at 1:30 pm (Apr 14)
+Author: Zhengxiang (Jack) Wang
+Date: 2023-04-12
+
+
+
+I will talk about a project me and Thomas contributed to using a probabilistic version of TSL* for trees, combining Thomas's tree TSL with Connor Mayer's string pTSL. We fit a model to experimental data on island effects from Sprouse et al 2016.
+
+
+
+*TSL: Tier-based Strictly Local; pTSL: probabilistic TSL
