@@ -1,0 +1,7 @@
+Title: Thomas on subregular succinctness arguments at 1:30 pm (Apr 21)
+Author: Zhengxiang (Jack) Wang
+Date: 2023-04-18
+
+
+
+Thomas will present a concrete case in syntax where subregular complexity considerations favor one of two competing analyses even though both have the same complexity. Concretely, both the Ban on Improper Movement and Stefan Keine's probe horizons are TSL over dependency trees, but they differ in succinctness. With probe horizons, the number of tiers grows linearly with the number of features, whereas it grows quadratically in grammars with the Ban on Improper Movement. TSL succinctness thus favors probe horizons over the Ban on Improper Movement.
