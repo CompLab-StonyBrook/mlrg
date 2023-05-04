@@ -3,7 +3,7 @@ Author: Thomas Graf
 Date: 2019-08-22
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2023-02-07)
+(Last updated: 2023-05-03)
 
 
 | Day   | Presenter          | Topic                                          |
