@@ -1,0 +1,7 @@
+Title: Jordan on impact of corpus size at 1:30 pm (Apr 28)
+Author: Zhengxiang (Jack) Wang
+Date: 2023-04-24
+
+
+
+I will discuss some recent findings on the impact of corpus size on the distribution of items in train-test splits for morphological inflection tasks. This can be tested empirically by taking many samples or calculated analytically. I will present and discuss some empirical results and an analytic solution. 

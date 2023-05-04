@@ -22,4 +22,4 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 04/14 | [Kenneth](http://www.kennethhanson.net) | TSL (Tier-based Strictly Local) islands |
 | 04/21 | [Thomas](https://thomasgraf.net) | Subregular succinctness arguments  |
 | 04/28 | [Eric](https://eric-sclafani.github.io) | Authorship attribution      |
-| 05/05 | [Jordan](https://jkodner05.github.io) | TBA |
+| 05/05 | [Jordan](https://jkodner05.github.io) | Effect of corpus size |
