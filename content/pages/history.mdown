@@ -1,12 +1,14 @@
 Title: History
 Author: Thomas Graf
 Date: 2016-01-13
+Modified: 2023-08-21
 
 While meetings are open to whatever somebody in the group wants to talk about, we usually pick a main topic for each semester.
 So far, the following topics have been covered:
 
 Semester     | Topic
 ------------ | ------------
+2023 Spring  | no specific topic
 2022 Fall    | Less Recreational
 2021 Fall    | Recreation
 2021 Spring  | Covidalooza, Part 3

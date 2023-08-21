@@ -1,25 +1,26 @@
 Title: Schedule
 Author: Thomas Graf
 Date: 2019-08-22
+Modified: 2023-08-21
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2023-05-03)
+(Last updated: 2023-08-21)
 
 
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
-| 01/27 | [Thomas](https://thomasgraf.net) | Organizational meeting |
-| 02/03 | [Thomas](https://thomasgraf.net) | <s>Grafts as long distance selection</s> [Cancelled] |
-| 02/10 | [Jeff](https://www.jeffreyheinz.net) | [Dakotah](https://vvulpes0.github.io)'s [plebby](https://hackage.haskell.org/package/language-toolkit-1.0.0.0) |
-| 02/17 | no meeting | Departmental virtual open house |
-| 02/24 | [Jack](https://jaaack-wang.eu.org) | RNN seq2seq learning   |
-| 03/03 | [Kenneth](http://www.kennethhanson.net) | String-based syntax            |
-| 03/10 | [Jeff](https://www.jeffreyheinz.net) | Noisy learning       |
-| 03/17 | no meeting | Spring Break                     |
-| 03/24 | [Magda](https://m-markowska.github.io) | Feature-based learning                      |
-| 03/31 | [Gary](https://www.stonybrook.edu/commcms/philosophy/people/_faculty/mar.php) | Brief history of logic of time |
-| 04/07 | [Scott](https://snelson89.bitbucket.io) | Rule interactions                         |
-| 04/14 | [Kenneth](http://www.kennethhanson.net) | TSL (Tier-based Strictly Local) islands |
-| 04/21 | [Thomas](https://thomasgraf.net) | Subregular succinctness arguments  |
-| 04/28 | [Eric](https://eric-sclafani.github.io) | Authorship attribution      |
-| 05/05 | [Jordan](https://jkodner05.github.io) | Effect of corpus size |
+| 09/01 | None | Organizational meeting |
+| 09/08 | | |
+| 09/15 | | |
+| 09/22 | | |
+| 09/29 | | |
+| 10/06 | | |
+| 10/13 | | |
+| 10/20 | | |
+| 10/27 | | |
+| 11/03 | | |
+| 11/10 | | |
+| 11/17 | | |
+| 11/24 | Break | Thanksgiving Break |
+| 12/01 | | |
+| 12/08 | | |
