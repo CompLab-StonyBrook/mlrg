@@ -10,7 +10,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
 | 09/01 | None | Organizational meeting |
-| 09/08 | | |
+| 09/08 | Philip Kaelbling | Robust Identification in the Limit from Incomplete Positive Data |
 | 09/15 | | |
 | 09/22 | | |
 | 09/29 | | |
