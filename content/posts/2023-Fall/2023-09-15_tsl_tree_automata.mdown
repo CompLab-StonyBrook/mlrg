@@ -1,0 +1,7 @@
+Title: Automata for Tree TSL pt.1 (Sept 15)
+Author: Logan Swanson
+Date: 2023-09-13
+
+Kenneth and Thomas will present an automata-theoretic perspective on TSL tree languages.
+
+Fun has been promised.
