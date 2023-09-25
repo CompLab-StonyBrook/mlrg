@@ -15,10 +15,10 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 09/22 | Thomas Graf & Kenneth Hanson | Automata for Tree TSL pt 2|
 | 09/29 | Logan Swanson | BUFIA overview & implementation |
 | 10/06 | Kalina Kostyszyn | BUFIA on Polish |
-| 10/13 | Thomas Graf | Hopf pt 1|
-| 10/20 | Thomas Graf | Hopf pt 2|
-| 10/27 | M. Rivera Serrano | TBA |
-| 11/03 | Scott Nelson(?) | TBA |
+| 10/13 | M. Rivera Serrano | TBA |
+| 10/20 | Thomas Graf | Hopf pt 1|
+| 10/27 | Thomas Graf | Hopf pt 2|
+| 11/03 | Scott Nelson | TBA |
 | 11/10 | Kenneth Hanson | C-strings |
 | 11/17 | open | |
 | 11/24 | Break | Thanksgiving Break |
