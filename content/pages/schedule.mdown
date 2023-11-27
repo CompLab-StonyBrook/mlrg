@@ -22,5 +22,5 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 11/10 | Kenneth Hanson | C-strings |
 | 11/17 | M. Rivera Serrano | Intensional Semantics |
 | 11/24 | NO MEETING | Thanksgiving Break |
-| 12/01 | Magda Markowska | TBA |
+| 12/01 | open | |
 | 12/08 | open/no meeting | |
