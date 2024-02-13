@@ -4,23 +4,23 @@ Date: 2019-08-22
 Modified: 2023-08-21
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2023-08-21)
+(Last updated: 2024-02-13)
 
 
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
-| 09/01 | None | Organizational meeting |
-| 09/08 | Philip Kaelbling | Robust Identification in the Limit from Incomplete Positive Data |
-| 09/15 | Thomas Graf & Kenneth Hanson | Automata for Tree TSL pt 1|
-| 09/22 | Thomas Graf & Kenneth Hanson | Automata for Tree TSL pt 2|
-| 09/29 | Thomas Graf | Hyperintensional Semantics |
-| 10/06 | Logan Swanson | BUFIA overview & implementation |
-| 10/13 | Kalina Kostyszyn | BUFIA on Polish |
-| 10/20 | Thomas Graf | Hopf pt 1|
-| 10/27 | Thomas Graf | Hopf pt 2|
-| 11/03 | Scott Nelson | TBA |
-| 11/10 | Kenneth Hanson | C-strings |
-| 11/17 | M. Rivera Serrano | Intensional Semantics |
-| 11/24 | NO MEETING | Thanksgiving Break |
-| 12/01 | open | |
-| 12/08 | open/no meeting | |
+| 1/26 | Scott Nelson | Blueprint Model of speech production |
+| 2/02 | n/a | No meeting (open house) |
+| 2/09 | n/a | Organizational meeting |
+| 2/16 | Logan Swanson | MTSL-2 Learning (1) - Strings |
+| 2/23 | Logan Swanson | MTSL-2 Learning (2) - Trees |
+| 3/01 | Thomas Graf | TBD |
+| 3/08 | TBD | TBD |
+| 3/15 | n/a | No meeting (spring break) |
+| 3/22 | Kenneth Hanson | Learning tier blockers from paths |
+| 3/29 | TBD | TBD |
+| 4/05 | n/a | No meeting (FASL) |
+| 4/12 | Kalina Kostyszyn | Decision trees |
+| 4/19 | Scott Nelson | Underspecification |
+| 4/26 | Alina Shabaeva | Multiple wh-movement |
+| 5/03 | Han Li | Tone |
