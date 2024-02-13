@@ -35,7 +35,7 @@ body {
   font-size: 16px;
   line-height: 150%;
   text-align: left;
-  color: #FF0000;
+  color: #4D4D4C;
   padding: 0;
   min-width: 740px;
 }
@@ -45,11 +45,6 @@ header {
   height: 50px;
   line-height: 50px;
   padding: 0 1em;
-}
-
-td {
-  padding: 1pt;
-  vertical-align: top;
 }
 
 .wrapper {
