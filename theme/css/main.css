@@ -183,6 +183,11 @@ hr {
 }
 
 
+/* Tables */
+td {
+  padding: 0pt 2pt;
+}
+
 /* Article */
 
 article.summary {
