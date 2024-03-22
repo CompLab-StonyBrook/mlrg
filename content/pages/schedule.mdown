@@ -18,7 +18,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 3/08 | n/a | No meeting (canceled) |
 | 3/15 | n/a | No meeting (spring break) |
 | 3/22 | Kenneth Hanson | Learning tier blockers from paths |
-| 3/29 | TBD | TBD |
+| 3/29 | Thomas Graf | Tutorial on Modern MGs |
 | 4/05 | n/a | No meeting (FASL) |
 | 4/12 | Kalina Kostyszyn | Decision trees |
 | 4/19 | Scott Nelson | Underspecification |
