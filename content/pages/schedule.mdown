@@ -1,7 +1,7 @@
 Title: Schedule
 Author: Thomas Graf
 Date: 2019-08-22
-Modified: 2023-08-21
+Modified: 2024-03-24
 
 Below is the current schedule for the semester, to be updated as time progresses.  
 (Last updated: 2024-02-13)
@@ -14,8 +14,8 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 2/09 | n/a | Organizational meeting |
 | 2/16 | Logan Swanson | MTSL-2 Learning (1) - Strings |
 | 2/23 | Logan Swanson | MTSL-2 Learning (2) - Trees |
-| 3/01 | Thomas Graf | TBD |
-| 3/08 | TBD | TBD |
+| 3/01 | Thomas Graf | No need for functional hierarchies? |
+| 3/08 | n/a | No meeting (canceled) |
 | 3/15 | n/a | No meeting (spring break) |
 | 3/22 | Kenneth Hanson | Learning tier blockers from paths |
 | 3/29 | TBD | TBD |
