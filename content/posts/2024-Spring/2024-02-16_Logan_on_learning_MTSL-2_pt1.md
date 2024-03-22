@@ -1,4 +1,4 @@
-Title: Logan on learning MTSL-2 string languages
+Title: Logan on learning MTSL-2 string languages (2/16)
 Author: Kenneth Hanson
 Date: 2024-02-13
 

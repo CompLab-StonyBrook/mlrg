@@ -1,4 +1,4 @@
-Title: Logan on learning MTSL-2 tree languages
+Title: Logan on learning MTSL-2 tree languages (2/23)
 Author: Kenneth Hanson
 Date: 2024-02-19
 
