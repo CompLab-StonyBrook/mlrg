@@ -1,7 +1,7 @@
 Title: Schedule
 Author: Thomas Graf
 Date: 2019-08-22
-Modified: 2024-03-22
+Modified: 2024-04-12
 
 Below is the current schedule for the semester, to be updated as time progresses.  
 (Last updated: 2024-03-22)
@@ -20,7 +20,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 3/22 | Kenneth Hanson | Learning tier blockers from paths |
 | 3/29 | Thomas Graf | Tutorial on Modern MGs |
 | 4/05 | n/a | No meeting (FASL) |
-| 4/12 | Kalina Kostyszyn | Decision trees |
+| 4/12 | Thomas and Logan | ITSL learning |
 | 4/19 | Scott Nelson | Underspecification |
 | 4/26 | Alina Shabaeva | Multiple wh-movement |
 | 5/03 | Han Li | Tone |
