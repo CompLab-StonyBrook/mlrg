@@ -9,7 +9,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
-| 09/06 | M Rivera Serrano | Semantics |
+| 09/06 | M Love | Compositional semantics |
 | 09/13 | Anton Hampe | Transducer continuity |
 | 09/20 | Jeff Heinz | Transducer learning |
 | 09/27 | Thomas Graf | Reply to Chesi |
