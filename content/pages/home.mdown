@@ -20,7 +20,7 @@ The group is very interdisciplinary in nature and we welcome guests from other d
 You can follow us by [subscribing to our news feed](http://complab-stonybrook.github.io/mlrg/feeds/all.atom.xml).
 
 
-## Current Semester (Spring 2024)
+## Current Semester (Fall 2024)
 
 **Time**: Friday, 1:15&ndash;2:15  
 **Location**: Computational Linguistics Lab (SBS N-250)  
