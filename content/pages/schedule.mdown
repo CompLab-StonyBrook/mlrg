@@ -15,8 +15,8 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 09/27 | Thomas Graf | Reply to Chesi |
 | 10/04 | Sarah Payne | TBA |
 | 10/11 | Kenneth Hanson | Unranked trees |
-| 10/18 | Thomas Graf | Discrete infinity |
-| 10/25 | Gary Mar | TBA |
+| 10/18 | Gary Mar | TBA |
+| 10/25 | Thomas Graf | Discrete infinity |
 | 11/01 | Alina Shabaeva | TBA |
 | 11/08 | Tim Hunter | Post-brownbag |
 | 11/15 | Han Li | TBA |
