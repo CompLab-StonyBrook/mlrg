@@ -2,7 +2,7 @@ Title: Jeff on learning Transducers (09/20)
 Author: Anton Hampe
 Date: 2024-09-16
 
-This week Jeff will be presenting joint work with Remi Eyraud and Dakotah Lambert.
+This week [Jeff](https://www.jeffreyheinz.net) will be presenting joint work with [Rémi Eyraud](https://remieyraud.github.io) and [Dakotah Lambert](https://dakotahlambert.com).
 
 Much of phonology is centered around studying maps from underlying representations to surface representations, in the form of OT grammars, phonological rules and other formalisms.
 
