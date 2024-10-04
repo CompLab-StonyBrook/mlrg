@@ -1,4 +1,4 @@
-Title: Sarah on learning Transducers (10/04)
+Title: Sarah on generalizing BUFIA (10/04)
 Author: Anton Hampe
 Date: 2024-10-04
 

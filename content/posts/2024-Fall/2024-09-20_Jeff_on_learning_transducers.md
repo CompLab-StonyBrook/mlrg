@@ -1,4 +1,4 @@
-Title: Jeff on learning Transducers (09/20)
+Title: Jeff on learning transducers (09/20)
 Author: Anton Hampe
 Date: 2024-09-16
 
