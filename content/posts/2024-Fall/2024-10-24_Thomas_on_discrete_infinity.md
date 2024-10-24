@@ -1,4 +1,4 @@
-Title: Jeff on learning transducers (10/24)
+Title: Thomas on discrete infinity (10/24)
 Author: Anton Hampe
 Date: 2024-10-23
 
