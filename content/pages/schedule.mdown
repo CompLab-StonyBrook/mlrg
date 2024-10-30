@@ -4,7 +4,7 @@ Date: 2019-08-22
 Modified: 2024-10-04
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2024-10-04)
+(Last updated: 2024-10-30)
 
 
 | Day   | Presenter          | Topic                                          |
@@ -17,9 +17,9 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 10/11 | Kenneth Hanson | Agreement over multiple tiers |
 | 10/18 | Gary Mar | Gödel's theorems: an incomplete journey |
 | 10/25 | Thomas Graf | Discrete infinity |
-| 11/01 | Alina Shabaeva | TBA |
+| 11/01 | Kenneth Hanson | Unordered trees |
 | 11/08 | Abed Qaddoumi | Transformers and formal languages |
 | 11/15 | Han Li | TBA |
-| 11/22 | Logan Swanson | TBA |
+| 11/22 | Salam Khalifa | TBA |
 | 11/29 | n/a | n/a |
 | 12/06 | TBA | TBA |
