@@ -19,7 +19,7 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 10/25 | Thomas Graf | Discrete infinity |
 | 11/01 | Kenneth Hanson | Unordered trees |
 | 11/08 | Abed Qaddoumi | Transformers and formal languages |
-| 11/15 | Han Li | TBA |
+| 11/15 | Anton Hampe | Constraint evaluation metrics |
 | 11/22 | Salam Khalifa | TBA |
 | 11/29 | n/a | n/a |
 | 12/06 | TBA | TBA |
