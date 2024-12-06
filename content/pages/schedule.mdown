@@ -22,4 +22,4 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 11/15 | Anton Hampe | Constraint evaluation metrics |
 | 11/22 | Salam Khalifa | Injecting structural bias into Seq2Seq models |
 | 11/29 | n/a | n/a |
-| 12/06 | TBA | TBA |
+| 12/06 | MLRG | MLRG hangout |
