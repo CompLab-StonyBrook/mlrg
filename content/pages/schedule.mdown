@@ -4,22 +4,21 @@ Date: 2019-08-22
 Modified: 2024-10-04
 
 Below is the current schedule for the semester, to be updated as time progresses.  
-(Last updated: 2024-10-30)
+(Last updated: 2025-02-06)
 
 
 | Day   | Presenter          | Topic                                          |
 |-------|--------------------|------------------------------------------------|
-| 09/06 | M Love | Compositional semantics |
-| 09/13 | Anton Hampe | Transducer continuity |
-| 09/20 | Jeff Heinz | Transducer learning |
-| 09/27 | Thomas Graf | Reply to Chesi |
-| 10/04 | Sarah Payne | Generalizing BUFIA |
-| 10/11 | Kenneth Hanson | Agreement over multiple tiers |
-| 10/18 | Gary Mar | Gödel's theorems: an incomplete journey |
-| 10/25 | Thomas Graf | Discrete infinity |
-| 11/01 | Kenneth Hanson | Unordered trees |
-| 11/08 | Abed Qaddoumi | Transformers and formal languages |
-| 11/15 | Anton Hampe | Constraint evaluation metrics |
-| 11/22 | Salam Khalifa | Injecting structural bias into Seq2Seq models |
-| 11/29 | n/a | n/a |
-| 12/06 | MLRG | MLRG hangout |
+| 02/14 | None | (Job search) |
+| 02/21 | None | (Open house) |
+| 02/28 | Kenneth Hanson | TBA |
+| 03/07 | Anton Hampe | TBA |
+| 03/14 | None | (Colloquium) |
+| 03/21 | None | (Springbreak) |
+| 03/28 | Matthew Hayden | Control languages |
+| 04/04 | None | (Colloquium) |
+| 04/11 | Logan Swanson | ISL-inferrability |
+| 04/18 | Jeff Heinz | TBA |
+| 04/25 | Thomas Graf | TBA |
+| 05/02 | Jake Rowen | TBA |
+| 05/09 | none | (NAPHC) |
