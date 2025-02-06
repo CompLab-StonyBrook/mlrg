@@ -12,13 +12,13 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 02/14 | None | (Job search) |
 | 02/21 | None | (Open house) |
 | 02/28 | Kenneth Hanson | TBA |
-| 03/07 | Anton Hampe | TBA |
+| 03/07 | Anton Hampe | Equational learning |
 | 03/14 | None | (Colloquium) |
 | 03/21 | None | (Springbreak) |
 | 03/28 | Matthew Hayden | Control languages |
 | 04/04 | None | (Colloquium) |
 | 04/11 | Logan Swanson | ISL-inferrability |
 | 04/18 | Jeff Heinz | TBA |
-| 04/25 | Thomas Graf | TBA |
+| 04/25 | Thomas Graf | Syntax with strings attached |
 | 05/02 | Jake Rowen | TBA |
 | 05/09 | none | (NAPHC) |
