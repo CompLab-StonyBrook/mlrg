@@ -21,4 +21,4 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 04/18 | Jeff Heinz | Open questions |
 | 04/25 | Thomas Graf | Syntax with strings attached |
 | 05/02 | Jake Rowen | Model-theoretic phonology software |
-| 05/09 | none | (NAPHC) |
+| 05/09 | None | (NAPHC) |
