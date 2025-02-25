@@ -16,7 +16,7 @@ The first challenge can be tackled by realizing that the set of possible left-ha
 This lets us exploit a property of languages called [compactness](https://scholar.google.com/scholar?cluster=17932744912598753020&hl=de&as_sdt=0,5) which says that any language has a finite subset which differentiates the same string morphisms as the whole language. 
 In the case of regular languages there is an [efficient algorithm](https://scholar.google.com/scholar?cluster=8987949344652779872&hl=de&as_sdt=0,5) for constructing such sets.
 
-The second challenge is rooted in the fact that the problem of solving a such equation is already NP-complete.
+The second challenge is rooted in the fact that the problem of solving a single such equation is already NP-complete.
 The solution lies in identifying what exactly makes the hard cases hard. 
 The field of parametrized complexity is all about finding additional parameters for problems which are intractable when only the size of the input is considered. 
 A problem is fixed-parameter tractable when fixing such additional parameters results in a tractable problem with respect to input size. 
