@@ -2,11 +2,11 @@
 <html lang="">	
 <head>
 	<meta charset="utf-8"/>
-	<title>Sarah on generalizing BUFIA (10/04) - MLRG</title>	
+	<title>Anton on string equations, compactness and learning (02/28) - MLRG</title>	
 	<meta name="author" content="Thomas Graf">
 	
 
-	<meta name="description" content="BUFIA, the Bottom-Up Factor Inference Algorithm, is an algorithm for learning phonotactics. Sarah will be presenting work on generalizing BUFIA to learn positive and negative grammars from unconventional string models.">
+	<meta name="description" content="For the first session, Anton will be revisiting Jeff's session on equational learning from last semester. Jeff pointed out two challenges with this new approach to learning transductions: 1. finding a method to identify characteristic samples which is independent of the class of transductions to be learned 1. finding a …">
 
 
 	<link rel="top" href="#" /><link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro' rel='stylesheet' type='text/css'></link>
@@ -36,17 +36,29 @@
 		  <div role="main" class="content">
 	<article class="full">
 			
-		<h1>Sarah on generalizing BUFIA (10/04)</h1>
+		<h1>Anton on string equations, compactness and learning (02/28)</h1>
 		
 <div class="metadata">
-  <time datetime="2024-10-04T00:00:00-04:00" pubdate>Fr 04 Oktober 2024</time>
+  <time datetime="2024-02-24T00:00:00-05:00" pubdate>Sa 24 Februar 2024</time>
     <address class="vcard author">
       by <a class="url fn" href="https://complab-stonybrook.github.io/mlrg/author/anton-hampe.html">Anton Hampe</a>
     </address>
-  in <a href="https://complab-stonybrook.github.io/mlrg/semester/2024-fall.html">2024-Fall</a>
+  in <a href="https://complab-stonybrook.github.io/mlrg/semester/2025-spring.html">2025-Spring</a>
 </div>		
-		<p><a href="https://github.com/heinz-jeffrey/bufia">BUFIA</a>, the Bottom-Up Factor Inference Algorithm, is an algorithm for learning phonotactics.</p>
-<p><a href="https://paynesa.github.io/">Sarah</a> will be presenting work on generalizing BUFIA to learn positive and negative grammars from unconventional string models.</p>	
+		<p>For the first session, Anton will be revisiting <a href="https://complab-stonybrook.github.io/mlrg/news/2024-fall/jeff-on-learning-transducers-0920.html">Jeff's session on equational learning</a> from last semester.</p>
+<p>Jeff pointed out two challenges with this new approach to learning transductions:
+1. finding a method to identify characteristic samples which is independent of the class of transductions to be learned
+1. finding a computationally tractable algorithm for solving equations</p>
+<p>In this session we will learn about results from two subfields of computer science that offer solutions to these challenges.</p>
+<p>The first challenge can be tackled by realizing that the set of possible left-hand sides for such a system of equations will always be a regular (even local) language.
+This lets us exploit a property of languages called <a href="https://scholar.google.com/scholar?cluster=17932744912598753020&amp;hl=de&amp;as_sdt=0,5">compactness</a> which says that any language has a finite subset which differentiates the same string morphisms as the whole language. 
+In the case of regular languages there is an <a href="https://scholar.google.com/scholar?cluster=8987949344652779872&amp;hl=de&amp;as_sdt=0,5">efficient algorithm</a> for constructing such sets.</p>
+<p>The second challenge is rooted in the fact that the problem of solving a such equation is already NP-complete.
+The solution lies in identifying what exactly makes the hard cases hard. 
+The field of parametrized complexity is all about finding additional parameters for problems which are intractable when only the size of the input is considered. 
+A problem is fixed-parameter tractable when fixing such additional parameters results in a tractable problem with respect to input size. 
+There are two types of parametrizations that are particularly promising for our problem: one based in <a href="https://scholar.google.com/scholar?cluster=8302488406971799490&amp;hl=de&amp;as_sdt=0,5">structure</a> and one in <a href="https://scholar.google.com/scholar?cluster=16324329046130129306&amp;hl=de&amp;as_sdt=0,5">bounding output delay/epenthesis</a>. 
+Another handy fact is that we can collapse our systems of equations into single equations with a polynomial blow up in size using some <a href="https://scholar.google.com/scholar?cluster=3610505661209871121&amp;hl=de&amp;as_sdt=0,5">tricks</a>.</p>	
 
 	</article>
 
@@ -76,9 +88,9 @@
 	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2022-fall.html">2022-Fall</a></li>
 	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2023-fall.html">2023-Fall</a></li>
 	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2023-spring.html">2023-Spring</a></li>
-	              <li class="active"><a href="https://complab-stonybrook.github.io/mlrg/semester/2024-fall.html">2024-Fall</a></li>
+	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2024-fall.html">2024-Fall</a></li>
 	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2024-spring.html">2024-Spring</a></li>
-	              <li ><a href="https://complab-stonybrook.github.io/mlrg/semester/2025-spring.html">2025-Spring</a></li>
+	              <li class="active"><a href="https://complab-stonybrook.github.io/mlrg/semester/2025-spring.html">2025-Spring</a></li>
 	          </ul>
 	        </nav>
 
