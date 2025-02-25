@@ -8,7 +8,7 @@ Jeff pointed out two challenges with this new approach to learning transductions
 
 1. finding a method to identify characteristic samples which is independent of the class of transductions to be learned
 
-1. finding a computationally tractable algorithm for solving equations
+2. finding a computationally tractable algorithm for solving equations
 
 In this session we will learn about results from two subfields of computer science that offer solutions to these challenges.
 
