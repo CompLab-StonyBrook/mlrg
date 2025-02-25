@@ -5,7 +5,9 @@ Date: 2024-02-24
 For the first session, Anton will be revisiting [Jeff's session on equational learning](https://complab-stonybrook.github.io/mlrg/news/2024-fall/jeff-on-learning-transducers-0920.html) from last semester.
 
 Jeff pointed out two challenges with this new approach to learning transductions:
+
 1. finding a method to identify characteristic samples which is independent of the class of transductions to be learned
+
 1. finding a computationally tractable algorithm for solving equations
 
 In this session we will learn about results from two subfields of computer science that offer solutions to these challenges.
