@@ -1,6 +1,6 @@
 Title: Anton on string equations, compactness and learning (02/28)
 Author: Anton Hampe
-Date: 2024-02-24
+Date: 2025-02-24
 
 For the first session, Anton will be revisiting [Jeff's session on equational learning](https://complab-stonybrook.github.io/mlrg/news/2024-fall/jeff-on-learning-transducers-0920.html) from last semester.
 
