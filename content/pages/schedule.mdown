@@ -19,6 +19,6 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 04/04 | None | (Colloquium) |
 | 04/11 | None | (Locality workshop) |
 | 04/18 | Logan Swanson | ISL-inferrability |
-| 04/25 | Thomas Graf | Syntax with strings attached |
+| 04/25 | Jeff Heinz | Open questions |
 | 05/02 | Jake Rowen | Model-theoretic phonology software |
 | 05/09 | None | (NAPHC) |
