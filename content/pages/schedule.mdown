@@ -20,5 +20,5 @@ Below is the current schedule for the semester, to be updated as time progresses
 | 04/11 | None | (Locality workshop) |
 | 04/18 | Logan Swanson | ISL-inferrability |
 | 04/25 | Jeff Heinz | Open questions |
-| 05/02 | Jake Rowen | Model-theoretic phonology software |
-| 05/09 | None | (NAPHC) |
+| 05/02 | None | (JD's defense)|
+| 05/09 | Jake Rowen | Model-theoretic phonology software |
